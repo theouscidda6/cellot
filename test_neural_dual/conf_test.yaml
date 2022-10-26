@@ -1,0 +1,10 @@
+init_params:
+  init_seed: 0
+  init_std: 1e-3
+  num_samples_init: 2048 # for gaussian init
+
+drug:
+  name: 'cisplatin'
+  type: '4i'
+  where: 'data_space'
+

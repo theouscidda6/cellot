@@ -1,0 +1,6 @@
+wandb_version: 1
+
+drug.name:
+  value: crizotinib
+init_params.init_seed:
+  value: 3

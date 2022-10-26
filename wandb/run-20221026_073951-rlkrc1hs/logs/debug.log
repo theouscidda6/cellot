@@ -1,0 +1,134 @@
+2022-10-26 07:39:51,038 INFO    MainThread:3083 [wandb_setup.py:_flush():68] Configure stats pid to 3083
+2022-10-26 07:39:51,039 INFO    MainThread:3083 [wandb_setup.py:_flush():68] Loading settings from /home/theouscidda/.config/wandb/settings
+2022-10-26 07:39:51,039 INFO    MainThread:3083 [wandb_setup.py:_flush():68] Loading settings from /home/theouscidda/cellot/wandb/settings
+2022-10-26 07:39:51,039 INFO    MainThread:3083 [wandb_setup.py:_flush():68] Loading settings from environment variables: {'_require_service': 'True', 'entity': 'theouscidda', 'project': 'cellot', 'sweep_id': 'b84s8qtt', 'root_dir': '/home/theouscidda/cellot', 'run_id': 'rlkrc1hs', 'sweep_param_path': '/home/theouscidda/cellot/wandb/sweep-b84s8qtt/config-rlkrc1hs.yaml'}
+2022-10-26 07:39:51,039 INFO    MainThread:3083 [wandb_setup.py:_flush():68] Inferring run settings from compute environment: {'program_relpath': 'evaluate_neural_dual.py', 'program': 'evaluate_neural_dual.py'}
+2022-10-26 07:39:51,039 INFO    MainThread:3083 [wandb_init.py:_log_setup():476] Logging user logs to /home/theouscidda/cellot/wandb/run-20221026_073951-rlkrc1hs/logs/debug.log
+2022-10-26 07:39:51,039 INFO    MainThread:3083 [wandb_init.py:_log_setup():477] Logging internal logs to /home/theouscidda/cellot/wandb/run-20221026_073951-rlkrc1hs/logs/debug-internal.log
+2022-10-26 07:39:51,039 INFO    MainThread:3083 [wandb_init.py:init():516] calling init triggers
+2022-10-26 07:39:51,040 INFO    MainThread:3083 [wandb_init.py:init():520] wandb.init called with sweep_config: {'drug.name': 'ixazomib', 'init_params.init_seed': 0}
+config: {'init_params': {'init_seed': 0, 'init_std': 0.001, 'num_samples_init': 2048}, 'drug': {'name': 'ixazomib', 'type': '4i', 'where': 'data_space'}}
+2022-10-26 07:39:51,040 INFO    MainThread:3083 [wandb_init.py:init():569] starting backend
+2022-10-26 07:39:51,040 INFO    MainThread:3083 [wandb_init.py:init():573] setting up manager
+2022-10-26 07:39:51,051 INFO    MainThread:3083 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2022-10-26 07:39:51,063 INFO    MainThread:3083 [wandb_init.py:init():580] backend started and connected
+2022-10-26 07:39:51,072 INFO    MainThread:3083 [wandb_run.py:_config_callback():1145] config_cb None None {'drug.name': 'ixazomib', 'init_params.init_seed': 0}
+2022-10-26 07:39:51,078 INFO    MainThread:3083 [wandb_init.py:init():658] updated telemetry
+2022-10-26 07:39:51,132 INFO    MainThread:3083 [wandb_init.py:init():693] communicating run to backend with 30 second timeout
+2022-10-26 07:39:51,490 INFO    MainThread:3083 [wandb_run.py:_on_init():1974] communicating current version
+2022-10-26 07:39:51,533 INFO    MainThread:3083 [wandb_run.py:_on_init():1978] got version response upgrade_message: "wandb version 0.13.4 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2022-10-26 07:39:51,534 INFO    MainThread:3083 [wandb_init.py:init():727] starting run threads in backend
+2022-10-26 07:39:55,106 INFO    MainThread:3083 [wandb_run.py:_console_start():1954] atexit reg
+2022-10-26 07:39:55,107 INFO    MainThread:3083 [wandb_run.py:_redirect():1812] redirect: SettingsConsole.WRAP_RAW
+2022-10-26 07:39:55,107 INFO    MainThread:3083 [wandb_run.py:_redirect():1877] Wrapping output streams.
+2022-10-26 07:39:55,107 INFO    MainThread:3083 [wandb_run.py:_redirect():1899] Redirects installed.
+2022-10-26 07:39:55,108 INFO    MainThread:3083 [wandb_init.py:init():764] run started, returning control to user process
+2022-10-26 08:35:29,439 INFO    MainThread:3083 [wandb_run.py:_finish():1720] finishing run theouscidda/cellot/rlkrc1hs
+2022-10-26 08:35:29,439 INFO    MainThread:3083 [wandb_run.py:_atexit_cleanup():1923] got exitcode: 0
+2022-10-26 08:35:29,440 INFO    MainThread:3083 [wandb_run.py:_restore():1906] restore
+2022-10-26 08:35:29,440 INFO    MainThread:3083 [wandb_run.py:_restore():1912] restore done
+2022-10-26 08:35:29,450 INFO    MainThread:3083 [wandb_run.py:_on_finish():2224] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 855
+  total_bytes: 855
+}
+
+2022-10-26 08:35:29,980 INFO    MainThread:3083 [wandb_run.py:_on_finish():2224] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 855
+  total_bytes: 855
+}
+
+2022-10-26 08:35:31,255 INFO    MainThread:3083 [wandb_run.py:_on_finish():2224] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 855
+  total_bytes: 855
+}
+
+2022-10-26 08:35:31,359 INFO    MainThread:3083 [wandb_run.py:_on_finish():2224] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 855
+  total_bytes: 10058
+}
+
+2022-10-26 08:35:31,467 INFO    MainThread:3083 [wandb_run.py:_on_finish():2224] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 855
+  total_bytes: 10058
+}
+
+2022-10-26 08:35:31,570 INFO    MainThread:3083 [wandb_run.py:_on_finish():2224] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 10058
+  total_bytes: 10058
+}
+
+2022-10-26 08:35:31,673 INFO    MainThread:3083 [wandb_run.py:_on_finish():2224] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 10058
+  total_bytes: 10058
+}
+
+2022-10-26 08:35:31,777 INFO    MainThread:3083 [wandb_run.py:_on_finish():2224] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 10058
+  total_bytes: 10058
+}
+
+2022-10-26 08:35:31,880 INFO    MainThread:3083 [wandb_run.py:_on_finish():2224] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 10058
+  total_bytes: 10058
+}
+
+2022-10-26 08:35:31,983 INFO    MainThread:3083 [wandb_run.py:_on_finish():2224] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 10058
+  total_bytes: 10058
+}
+
+2022-10-26 08:35:32,446 INFO    MainThread:3083 [wandb_run.py:_on_finish():2224] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 10058
+  total_bytes: 10058
+}
+
+2022-10-26 08:35:32,857 INFO    MainThread:3083 [wandb_run.py:_on_finish():2224] got exit ret: done: true
+exit_result {
+}
+file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 10058
+  total_bytes: 10058
+}
+local_info {
+}
+
+2022-10-26 08:35:33,966 INFO    MainThread:3083 [wandb_run.py:_footer_history_summary_info():3321] rendering history
+2022-10-26 08:35:33,967 INFO    MainThread:3083 [wandb_run.py:_footer_history_summary_info():3353] rendering summary
+2022-10-26 08:35:33,972 INFO    MainThread:3083 [wandb_run.py:_footer_sync_info():3277] logging synced files

@@ -1,0 +1,27 @@
+{
+    "os": "Linux-4.4.247-1.el7.elrepo.x86_64-x86_64-with-centos-7.6.1810-Core",
+    "python": "3.7.10",
+    "heartbeatAt": "2022-10-26T02:43:48.926486",
+    "startedAt": "2022-10-26T02:43:48.369601",
+    "docker": null,
+    "gpu": "NVIDIA Tesla K80",
+    "gpu_count": 13,
+    "cpu_count": 24,
+    "cuda": null,
+    "args": [
+        "drug.name=erlotinib",
+        "init_params.init_seed=1"
+    ],
+    "state": "running",
+    "program": "evaluate_neural_dual.py",
+    "codePath": "evaluate_neural_dual.py",
+    "git": {
+        "remote": "https://github.com/bunnech/cellot",
+        "commit": "085bb4f1531bd47095134f03f9a1266ac8a0ad60"
+    },
+    "email": "theo.uscidda@gmail.com",
+    "root": "/home/theouscidda/cellot",
+    "host": "gpuserver.ensae.fr",
+    "username": "theouscidda",
+    "executable": "/home/theouscidda/.conda/envs/jax/bin/python3"
+}

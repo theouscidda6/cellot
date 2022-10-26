@@ -1,0 +1,1 @@
+{"step": 1, "_timestamp": 1666755649.7546344, "_runtime": 3427.5934324264526, "_step": 11, "sinkhorn_divergence": 359.5491638183594, "rbf_mmd": 0.6411613821983337, "l2_drug_signature": 18.824567794799805, "_wandb": {"runtime": 3427}}

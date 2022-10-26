@@ -1,0 +1,150 @@
+2022-10-26 03:02:29,014 INFO    MainThread:15504 [wandb_setup.py:_flush():68] Configure stats pid to 15504
+2022-10-26 03:02:29,015 INFO    MainThread:15504 [wandb_setup.py:_flush():68] Loading settings from /home/theouscidda/.config/wandb/settings
+2022-10-26 03:02:29,015 INFO    MainThread:15504 [wandb_setup.py:_flush():68] Loading settings from /home/theouscidda/cellot/wandb/settings
+2022-10-26 03:02:29,015 INFO    MainThread:15504 [wandb_setup.py:_flush():68] Loading settings from environment variables: {'_require_service': 'True', 'entity': 'theouscidda', 'project': 'cellot', 'sweep_id': 'b84s8qtt', 'root_dir': '/home/theouscidda/cellot', 'run_id': 'j2cncb77', 'sweep_param_path': '/home/theouscidda/cellot/wandb/sweep-b84s8qtt/config-j2cncb77.yaml'}
+2022-10-26 03:02:29,015 INFO    MainThread:15504 [wandb_setup.py:_flush():68] Inferring run settings from compute environment: {'program_relpath': 'evaluate_neural_dual.py', 'program': 'evaluate_neural_dual.py'}
+2022-10-26 03:02:29,015 INFO    MainThread:15504 [wandb_init.py:_log_setup():476] Logging user logs to /home/theouscidda/cellot/wandb/run-20221026_030229-j2cncb77/logs/debug.log
+2022-10-26 03:02:29,015 INFO    MainThread:15504 [wandb_init.py:_log_setup():477] Logging internal logs to /home/theouscidda/cellot/wandb/run-20221026_030229-j2cncb77/logs/debug-internal.log
+2022-10-26 03:02:29,015 INFO    MainThread:15504 [wandb_init.py:init():516] calling init triggers
+2022-10-26 03:02:29,015 INFO    MainThread:15504 [wandb_init.py:init():520] wandb.init called with sweep_config: {'drug.name': 'decitabine', 'init_params.init_seed': 0}
+config: {'init_params': {'init_seed': 0, 'init_std': 0.001, 'num_samples_init': 2048}, 'drug': {'name': 'decitabine', 'type': '4i', 'where': 'data_space'}}
+2022-10-26 03:02:29,016 INFO    MainThread:15504 [wandb_init.py:init():569] starting backend
+2022-10-26 03:02:29,016 INFO    MainThread:15504 [wandb_init.py:init():573] setting up manager
+2022-10-26 03:02:29,025 INFO    MainThread:15504 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2022-10-26 03:02:29,032 INFO    MainThread:15504 [wandb_init.py:init():580] backend started and connected
+2022-10-26 03:02:29,039 INFO    MainThread:15504 [wandb_run.py:_config_callback():1145] config_cb None None {'drug.name': 'decitabine', 'init_params.init_seed': 0}
+2022-10-26 03:02:29,045 INFO    MainThread:15504 [wandb_init.py:init():658] updated telemetry
+2022-10-26 03:02:29,100 INFO    MainThread:15504 [wandb_init.py:init():693] communicating run to backend with 30 second timeout
+2022-10-26 03:02:29,455 INFO    MainThread:15504 [wandb_run.py:_on_init():1974] communicating current version
+2022-10-26 03:02:29,508 INFO    MainThread:15504 [wandb_run.py:_on_init():1978] got version response upgrade_message: "wandb version 0.13.4 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2022-10-26 03:02:29,508 INFO    MainThread:15504 [wandb_init.py:init():727] starting run threads in backend
+2022-10-26 03:02:32,856 INFO    MainThread:15504 [wandb_run.py:_console_start():1954] atexit reg
+2022-10-26 03:02:32,857 INFO    MainThread:15504 [wandb_run.py:_redirect():1812] redirect: SettingsConsole.WRAP_RAW
+2022-10-26 03:02:32,857 INFO    MainThread:15504 [wandb_run.py:_redirect():1877] Wrapping output streams.
+2022-10-26 03:02:32,857 INFO    MainThread:15504 [wandb_run.py:_redirect():1899] Redirects installed.
+2022-10-26 03:02:32,858 INFO    MainThread:15504 [wandb_init.py:init():764] run started, returning control to user process
+2022-10-26 03:56:31,140 INFO    MainThread:15504 [wandb_run.py:_finish():1720] finishing run theouscidda/cellot/j2cncb77
+2022-10-26 03:56:31,140 INFO    MainThread:15504 [wandb_run.py:_atexit_cleanup():1923] got exitcode: 0
+2022-10-26 03:56:31,140 INFO    MainThread:15504 [wandb_run.py:_restore():1906] restore
+2022-10-26 03:56:31,140 INFO    MainThread:15504 [wandb_run.py:_restore():1912] restore done
+2022-10-26 03:56:31,148 INFO    MainThread:15504 [wandb_run.py:_on_finish():2224] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 857
+  total_bytes: 857
+}
+
+2022-10-26 03:56:31,452 INFO    MainThread:15504 [wandb_run.py:_on_finish():2224] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 857
+  total_bytes: 857
+}
+
+2022-10-26 03:56:31,626 INFO    MainThread:15504 [wandb_run.py:_on_finish():2224] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 857
+  total_bytes: 857
+}
+
+2022-10-26 03:56:32,631 INFO    MainThread:15504 [wandb_run.py:_on_finish():2224] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 857
+  total_bytes: 857
+}
+
+2022-10-26 03:56:32,884 INFO    MainThread:15504 [wandb_run.py:_on_finish():2224] got exit ret: file_counts {
+  wandb_count: 5
+}
+pusher_stats {
+  uploaded_bytes: 857
+  total_bytes: 8059
+}
+
+2022-10-26 03:56:32,987 INFO    MainThread:15504 [wandb_run.py:_on_finish():2224] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 857
+  total_bytes: 10025
+}
+
+2022-10-26 03:56:33,090 INFO    MainThread:15504 [wandb_run.py:_on_finish():2224] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 6251
+  total_bytes: 10025
+}
+
+2022-10-26 03:56:33,193 INFO    MainThread:15504 [wandb_run.py:_on_finish():2224] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 10025
+  total_bytes: 10025
+}
+
+2022-10-26 03:56:33,296 INFO    MainThread:15504 [wandb_run.py:_on_finish():2224] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 10025
+  total_bytes: 10025
+}
+
+2022-10-26 03:56:33,399 INFO    MainThread:15504 [wandb_run.py:_on_finish():2224] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 10025
+  total_bytes: 10025
+}
+
+2022-10-26 03:56:33,503 INFO    MainThread:15504 [wandb_run.py:_on_finish():2224] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 10025
+  total_bytes: 10025
+}
+
+2022-10-26 03:56:33,607 INFO    MainThread:15504 [wandb_run.py:_on_finish():2224] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 10025
+  total_bytes: 10025
+}
+
+2022-10-26 03:56:34,100 INFO    MainThread:15504 [wandb_run.py:_on_finish():2224] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 10025
+  total_bytes: 10025
+}
+
+2022-10-26 03:56:34,481 INFO    MainThread:15504 [wandb_run.py:_on_finish():2224] got exit ret: done: true
+exit_result {
+}
+file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 10025
+  total_bytes: 10025
+}
+local_info {
+}
+
+2022-10-26 03:56:35,590 INFO    MainThread:15504 [wandb_run.py:_footer_history_summary_info():3321] rendering history
+2022-10-26 03:56:35,590 INFO    MainThread:15504 [wandb_run.py:_footer_history_summary_info():3353] rendering summary
+2022-10-26 03:56:35,595 INFO    MainThread:15504 [wandb_run.py:_footer_sync_info():3277] logging synced files

@@ -1,0 +1,682 @@
+2022-10-25 22:00:51 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/theouscidda/cellot/3t0vu1e3/file_stream
+NoneType: None
+2022-10-25 22:01:05 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/theouscidda/cellot/3t0vu1e3/file_stream
+NoneType: None
+2022-10-25 22:21:19 INFO Running runs: []
+2022-10-25 22:21:19 INFO Agent received command: run
+2022-10-25 22:21:19 INFO Agent starting run with config:
+	drug.name: cisplatin
+	init_params.init_seed: 0
+2022-10-25 22:21:19 INFO About to run command: python3 evaluate_neural_dual.py drug.name=cisplatin init_params.init_seed=0
+2022-10-25 22:21:24 INFO Running runs: ['e5s9uqen']
+2022-10-25 22:23:35 INFO Running runs: []
+2022-10-25 22:23:35 INFO Agent received command: run
+2022-10-25 22:23:35 INFO Agent starting run with config:
+	drug.name: cisplatin
+	init_params.init_seed: 1
+2022-10-25 22:23:35 INFO About to run command: python3 evaluate_neural_dual.py drug.name=cisplatin init_params.init_seed=1
+2022-10-25 22:23:40 INFO Running runs: ['54ivkpio']
+2022-10-25 22:24:27 INFO Running runs: []
+2022-10-25 22:24:28 INFO Agent received command: run
+2022-10-25 22:24:28 INFO Agent starting run with config:
+	drug.name: cisplatin
+	init_params.init_seed: 2
+2022-10-25 22:24:28 INFO About to run command: python3 evaluate_neural_dual.py drug.name=cisplatin init_params.init_seed=2
+2022-10-25 22:24:33 INFO Running runs: ['6m2rlwzf']
+2022-10-25 22:25:15 INFO Running runs: []
+2022-10-25 22:25:16 INFO Agent received command: run
+2022-10-25 22:25:16 INFO Agent starting run with config:
+	drug.name: cisplatin
+	init_params.init_seed: 3
+2022-10-25 22:25:16 INFO About to run command: python3 evaluate_neural_dual.py drug.name=cisplatin init_params.init_seed=3
+2022-10-25 22:25:21 INFO Running runs: ['za6oj5mt']
+2022-10-25 22:27:26 INFO Running runs: []
+2022-10-25 22:27:26 INFO Agent received command: run
+2022-10-25 22:27:26 INFO Agent starting run with config:
+	drug.name: cisplatin
+	init_params.init_seed: 4
+2022-10-25 22:27:26 INFO About to run command: python3 evaluate_neural_dual.py drug.name=cisplatin init_params.init_seed=4
+2022-10-25 22:27:31 INFO Running runs: ['k76z7k06']
+2022-10-25 22:27:42 INFO Cleaning up finished run: k76z7k06
+2022-10-25 22:27:42 INFO Agent received command: run
+2022-10-25 22:27:42 INFO Agent starting run with config:
+	drug.name: cisplatin_olaparib
+	init_params.init_seed: 0
+2022-10-25 22:27:42 INFO About to run command: python3 evaluate_neural_dual.py drug.name=cisplatin_olaparib init_params.init_seed=0
+2022-10-25 22:27:47 INFO Running runs: ['hvlvrhjj']
+2022-10-25 22:27:57 INFO Cleaning up finished run: hvlvrhjj
+2022-10-25 22:27:58 INFO Agent received command: run
+2022-10-25 22:27:58 INFO Agent starting run with config:
+	drug.name: cisplatin_olaparib
+	init_params.init_seed: 1
+2022-10-25 22:27:58 INFO About to run command: python3 evaluate_neural_dual.py drug.name=cisplatin_olaparib init_params.init_seed=1
+2022-10-25 22:28:03 INFO Running runs: ['oj7lq51d']
+2022-10-25 22:28:13 ERROR Detected 3 failed runs in the first 60 seconds, shutting down.
+2022-10-25 22:28:13 INFO To disable this check set WANDB_AGENT_DISABLE_FLAPPING=true
+2022-10-25 22:50:21 ERROR 500 response executing GraphQL.
+2022-10-25 22:50:21 ERROR {"errors":[{"message":"context deadline exceeded"}]}
+2022-10-25 22:50:36 ERROR 500 response executing GraphQL.
+2022-10-25 22:50:36 ERROR {"errors":[{"message":"internal database error","path":["agentHeartbeat"]}],"data":{"agentHeartbeat":null}}
+2022-10-25 22:50:40 ERROR 500 response executing GraphQL.
+2022-10-25 22:50:40 ERROR {"errors":[{"message":"internal database error","path":["agentHeartbeat"]}],"data":{"agentHeartbeat":null}}
+2022-10-25 22:50:44 ERROR 500 response executing GraphQL.
+2022-10-25 22:50:44 ERROR {"error":"internal database error"}
+2022-10-25 22:50:47 ERROR 500 response executing GraphQL.
+2022-10-25 22:50:47 ERROR {"error":"internal database error"}
+2022-10-25 22:50:47 ERROR Retry attempt failed:
+Traceback (most recent call last):
+  File "/home/theouscidda/.conda/envs/jax/lib/python3.7/site-packages/wandb/sdk/lib/retry.py", line 113, in __call__
+    result = self._call_fn(*args, **kwargs)
+  File "/home/theouscidda/.conda/envs/jax/lib/python3.7/site-packages/wandb/sdk/internal/internal_api.py", line 199, in execute
+    return self.client.execute(*args, **kwargs)  # type: ignore
+  File "/home/theouscidda/.conda/envs/jax/lib/python3.7/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/client.py", line 52, in execute
+    result = self._get_result(document, *args, **kwargs)
+  File "/home/theouscidda/.conda/envs/jax/lib/python3.7/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/client.py", line 60, in _get_result
+    return self.transport.execute(document, *args, **kwargs)
+  File "/home/theouscidda/.conda/envs/jax/lib/python3.7/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/transport/requests.py", line 39, in execute
+    request.raise_for_status()
+  File "/home/theouscidda/.conda/envs/jax/lib/python3.7/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://api.wandb.ai/graphql
+2022-10-25 22:50:47 ERROR 500 response executing GraphQL.
+2022-10-25 22:50:47 ERROR {"error":"internal database error"}
+2022-10-25 22:50:48 ERROR 500 response executing GraphQL.
+2022-10-25 22:50:48 ERROR {"error":"internal database error"}
+2022-10-25 22:50:51 ERROR 500 response executing GraphQL.
+2022-10-25 22:50:51 ERROR {"error":"internal database error"}
+2022-10-25 22:50:51 ERROR Retry attempt failed:
+Traceback (most recent call last):
+  File "/home/theouscidda/.conda/envs/jax/lib/python3.7/site-packages/wandb/sdk/lib/retry.py", line 113, in __call__
+    result = self._call_fn(*args, **kwargs)
+  File "/home/theouscidda/.conda/envs/jax/lib/python3.7/site-packages/wandb/sdk/internal/internal_api.py", line 199, in execute
+    return self.client.execute(*args, **kwargs)  # type: ignore
+  File "/home/theouscidda/.conda/envs/jax/lib/python3.7/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/client.py", line 52, in execute
+    result = self._get_result(document, *args, **kwargs)
+  File "/home/theouscidda/.conda/envs/jax/lib/python3.7/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/client.py", line 60, in _get_result
+    return self.transport.execute(document, *args, **kwargs)
+  File "/home/theouscidda/.conda/envs/jax/lib/python3.7/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/transport/requests.py", line 39, in execute
+    request.raise_for_status()
+  File "/home/theouscidda/.conda/envs/jax/lib/python3.7/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://api.wandb.ai/graphql
+2022-10-25 22:50:52 ERROR 500 response executing GraphQL.
+2022-10-25 22:50:52 ERROR {"error":"internal database error"}
+2022-10-25 22:50:53 ERROR 500 response executing GraphQL.
+2022-10-25 22:50:53 ERROR {"error":"internal database error"}
+2022-10-25 22:50:54 ERROR 500 response executing GraphQL.
+2022-10-25 22:50:54 ERROR {"error":"internal database error"}
+2022-10-25 22:50:56 ERROR 500 response executing GraphQL.
+2022-10-25 22:50:56 ERROR {"error":"internal database error"}
+2022-10-25 22:50:57 ERROR 500 response executing GraphQL.
+2022-10-25 22:50:57 ERROR {"error":"internal database error"}
+2022-10-25 22:50:57 ERROR Retry attempt failed:
+Traceback (most recent call last):
+  File "/home/theouscidda/.conda/envs/jax/lib/python3.7/site-packages/wandb/sdk/lib/retry.py", line 113, in __call__
+    result = self._call_fn(*args, **kwargs)
+  File "/home/theouscidda/.conda/envs/jax/lib/python3.7/site-packages/wandb/sdk/internal/internal_api.py", line 199, in execute
+    return self.client.execute(*args, **kwargs)  # type: ignore
+  File "/home/theouscidda/.conda/envs/jax/lib/python3.7/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/client.py", line 52, in execute
+    result = self._get_result(document, *args, **kwargs)
+  File "/home/theouscidda/.conda/envs/jax/lib/python3.7/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/client.py", line 60, in _get_result
+    return self.transport.execute(document, *args, **kwargs)
+  File "/home/theouscidda/.conda/envs/jax/lib/python3.7/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/transport/requests.py", line 39, in execute
+    request.raise_for_status()
+  File "/home/theouscidda/.conda/envs/jax/lib/python3.7/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://api.wandb.ai/graphql
+2022-10-25 22:50:58 ERROR 500 response executing GraphQL.
+2022-10-25 22:50:58 ERROR {"error":"internal database error"}
+2022-10-25 22:50:58 ERROR Retry attempt failed:
+Traceback (most recent call last):
+  File "/home/theouscidda/.conda/envs/jax/lib/python3.7/site-packages/wandb/sdk/lib/retry.py", line 113, in __call__
+    result = self._call_fn(*args, **kwargs)
+  File "/home/theouscidda/.conda/envs/jax/lib/python3.7/site-packages/wandb/sdk/internal/internal_api.py", line 199, in execute
+    return self.client.execute(*args, **kwargs)  # type: ignore
+  File "/home/theouscidda/.conda/envs/jax/lib/python3.7/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/client.py", line 52, in execute
+    result = self._get_result(document, *args, **kwargs)
+  File "/home/theouscidda/.conda/envs/jax/lib/python3.7/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/client.py", line 60, in _get_result
+    return self.transport.execute(document, *args, **kwargs)
+  File "/home/theouscidda/.conda/envs/jax/lib/python3.7/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/transport/requests.py", line 39, in execute
+    request.raise_for_status()
+  File "/home/theouscidda/.conda/envs/jax/lib/python3.7/site-packages/requests/models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://api.wandb.ai/graphql
+2022-10-25 22:51:02 ERROR 500 response executing GraphQL.
+2022-10-25 22:51:02 ERROR {"error":"internal database error"}
+2022-10-25 22:51:03 ERROR 500 response executing GraphQL.
+2022-10-25 22:51:03 ERROR {"error":"internal database error"}
+2022-10-25 22:51:03 ERROR 500 response executing GraphQL.
+2022-10-25 22:51:03 ERROR {"error":"internal database error"}
+2022-10-25 22:51:05 ERROR 500 response executing GraphQL.
+2022-10-25 22:51:05 ERROR {"error":"internal database error"}
+2022-10-25 22:51:12 ERROR 500 response executing GraphQL.
+2022-10-25 22:51:12 ERROR {"error":"internal database error"}
+2022-10-25 22:51:12 ERROR 500 response executing GraphQL.
+2022-10-25 22:51:12 ERROR {"error":"internal database error"}
+2022-10-25 22:51:21 ERROR 500 response executing GraphQL.
+2022-10-25 22:51:21 ERROR {"error":"internal database error"}
+2022-10-25 22:51:23 ERROR 500 response executing GraphQL.
+2022-10-25 22:51:23 ERROR {"error":"internal database error"}
+2022-10-25 22:51:30 ERROR 500 response executing GraphQL.
+2022-10-25 22:51:30 ERROR {"error":"internal database error"}
+2022-10-25 22:51:31 ERROR 500 response executing GraphQL.
+2022-10-25 22:51:31 ERROR {"error":"internal database error"}
+2022-10-25 22:51:59 ERROR 500 response executing GraphQL.
+2022-10-25 22:51:59 ERROR {"error":"internal database error"}
+2022-10-25 22:52:01 ERROR 500 response executing GraphQL.
+2022-10-25 22:52:01 ERROR {"error":"internal database error"}
+2022-10-25 22:52:04 ERROR 500 response executing GraphQL.
+2022-10-25 22:52:04 ERROR {"error":"internal database error"}
+2022-10-25 22:52:09 ERROR 500 response executing GraphQL.
+2022-10-25 22:52:09 ERROR {"error":"internal database error"}
+2022-10-25 23:16:21 INFO Cleaning up finished run: e5s9uqen
+2022-10-25 23:16:21 INFO Agent received command: run
+2022-10-25 23:16:21 INFO Agent starting run with config:
+	drug.name: cisplatin_olaparib
+	init_params.init_seed: 2
+2022-10-25 23:16:21 INFO About to run command: python3 evaluate_neural_dual.py drug.name=cisplatin_olaparib init_params.init_seed=2
+2022-10-25 23:16:26 INFO Running runs: ['aovjdvrl']
+2022-10-25 23:19:41 INFO Cleaning up finished run: za6oj5mt
+2022-10-25 23:19:41 INFO Agent received command: run
+2022-10-25 23:19:41 INFO Agent starting run with config:
+	drug.name: cisplatin_olaparib
+	init_params.init_seed: 3
+2022-10-25 23:19:41 INFO About to run command: python3 evaluate_neural_dual.py drug.name=cisplatin_olaparib init_params.init_seed=3
+2022-10-25 23:19:46 INFO Running runs: ['7sxv3dv6']
+2022-10-25 23:20:19 INFO Cleaning up finished run: 54ivkpio
+2022-10-25 23:20:19 INFO Agent received command: run
+2022-10-25 23:20:19 INFO Agent starting run with config:
+	drug.name: cisplatin_olaparib
+	init_params.init_seed: 4
+2022-10-25 23:20:19 INFO About to run command: python3 evaluate_neural_dual.py drug.name=cisplatin_olaparib init_params.init_seed=4
+2022-10-25 23:20:24 INFO Running runs: ['fpjiwb6q']
+2022-10-25 23:22:27 INFO Cleaning up finished run: 6m2rlwzf
+2022-10-25 23:22:28 INFO Agent received command: run
+2022-10-25 23:22:28 INFO Agent starting run with config:
+	drug.name: crizotinib
+	init_params.init_seed: 0
+2022-10-25 23:22:28 INFO About to run command: python3 evaluate_neural_dual.py drug.name=crizotinib init_params.init_seed=0
+2022-10-25 23:22:33 INFO Running runs: ['aksio127']
+2022-10-25 23:54:56 INFO Running runs: []
+2022-10-25 23:54:56 INFO Agent received command: run
+2022-10-25 23:54:56 INFO Agent starting run with config:
+	drug.name: cisplatin
+	init_params.init_seed: 4
+2022-10-25 23:54:56 INFO About to run command: python3 evaluate_neural_dual.py drug.name=cisplatin init_params.init_seed=4
+2022-10-25 23:55:02 INFO Running runs: ['rr487n95']
+2022-10-25 23:55:28 INFO Running runs: []
+2022-10-25 23:55:28 INFO Agent received command: run
+2022-10-25 23:55:29 INFO Agent starting run with config:
+	drug.name: cisplatin_olaparib
+	init_params.init_seed: 0
+2022-10-25 23:55:29 INFO About to run command: python3 evaluate_neural_dual.py drug.name=cisplatin_olaparib init_params.init_seed=0
+2022-10-25 23:55:34 INFO Running runs: ['kj1njalg']
+2022-10-26 00:09:54 INFO Cleaning up finished run: aovjdvrl
+2022-10-26 00:09:55 INFO Agent received command: run
+2022-10-26 00:09:55 INFO Agent starting run with config:
+	drug.name: cisplatin_olaparib
+	init_params.init_seed: 1
+2022-10-26 00:09:55 INFO About to run command: python3 evaluate_neural_dual.py drug.name=cisplatin_olaparib init_params.init_seed=1
+2022-10-26 00:10:00 INFO Running runs: ['8p8yjej3']
+2022-10-26 00:14:38 INFO Cleaning up finished run: fpjiwb6q
+2022-10-26 00:14:38 INFO Agent received command: run
+2022-10-26 00:14:38 INFO Agent starting run with config:
+	drug.name: crizotinib
+	init_params.init_seed: 1
+2022-10-26 00:14:38 INFO About to run command: python3 evaluate_neural_dual.py drug.name=crizotinib init_params.init_seed=1
+2022-10-26 00:14:43 INFO Running runs: ['51eqwr9u']
+2022-10-26 00:14:56 INFO Cleaning up finished run: 7sxv3dv6
+2022-10-26 00:14:56 INFO Agent received command: run
+2022-10-26 00:14:56 INFO Agent starting run with config:
+	drug.name: crizotinib
+	init_params.init_seed: 2
+2022-10-26 00:14:56 INFO About to run command: python3 evaluate_neural_dual.py drug.name=crizotinib init_params.init_seed=2
+2022-10-26 00:15:01 INFO Running runs: ['act4q4tb']
+2022-10-26 00:19:35 INFO Cleaning up finished run: aksio127
+2022-10-26 00:19:35 INFO Agent received command: run
+2022-10-26 00:19:35 INFO Agent starting run with config:
+	drug.name: crizotinib
+	init_params.init_seed: 3
+2022-10-26 00:19:35 INFO About to run command: python3 evaluate_neural_dual.py drug.name=crizotinib init_params.init_seed=3
+2022-10-26 00:19:40 INFO Running runs: ['e4s7354r']
+2022-10-26 00:49:04 INFO Cleaning up finished run: rr487n95
+2022-10-26 00:49:05 INFO Agent received command: run
+2022-10-26 00:49:05 INFO Agent starting run with config:
+	drug.name: crizotinib
+	init_params.init_seed: 4
+2022-10-26 00:49:05 INFO About to run command: python3 evaluate_neural_dual.py drug.name=crizotinib init_params.init_seed=4
+2022-10-26 00:49:10 INFO Running runs: ['pqq6mua3']
+2022-10-26 00:52:26 INFO Cleaning up finished run: kj1njalg
+2022-10-26 00:52:26 INFO Agent received command: run
+2022-10-26 00:52:26 INFO Agent starting run with config:
+	drug.name: dabrafenib
+	init_params.init_seed: 0
+2022-10-26 00:52:26 INFO About to run command: python3 evaluate_neural_dual.py drug.name=dabrafenib init_params.init_seed=0
+2022-10-26 00:52:31 INFO Running runs: ['wql4mb8m']
+2022-10-26 01:06:30 INFO Cleaning up finished run: 8p8yjej3
+2022-10-26 01:06:30 INFO Agent received command: run
+2022-10-26 01:06:30 INFO Agent starting run with config:
+	drug.name: dabrafenib
+	init_params.init_seed: 1
+2022-10-26 01:06:30 INFO About to run command: python3 evaluate_neural_dual.py drug.name=dabrafenib init_params.init_seed=1
+2022-10-26 01:06:35 INFO Running runs: ['xyolykx0']
+2022-10-26 01:09:33 INFO Cleaning up finished run: act4q4tb
+2022-10-26 01:09:33 INFO Agent received command: run
+2022-10-26 01:09:33 INFO Agent starting run with config:
+	drug.name: dabrafenib
+	init_params.init_seed: 2
+2022-10-26 01:09:33 INFO About to run command: python3 evaluate_neural_dual.py drug.name=dabrafenib init_params.init_seed=2
+2022-10-26 01:09:38 INFO Running runs: ['bw9akb12']
+2022-10-26 01:11:41 INFO Cleaning up finished run: 51eqwr9u
+2022-10-26 01:11:41 INFO Agent received command: run
+2022-10-26 01:11:41 INFO Agent starting run with config:
+	drug.name: dabrafenib
+	init_params.init_seed: 3
+2022-10-26 01:11:41 INFO About to run command: python3 evaluate_neural_dual.py drug.name=dabrafenib init_params.init_seed=3
+2022-10-26 01:11:46 INFO Running runs: ['9ugzdtqs']
+2022-10-26 01:16:10 INFO Cleaning up finished run: e4s7354r
+2022-10-26 01:16:10 INFO Agent received command: run
+2022-10-26 01:16:10 INFO Agent starting run with config:
+	drug.name: dabrafenib
+	init_params.init_seed: 4
+2022-10-26 01:16:10 INFO About to run command: python3 evaluate_neural_dual.py drug.name=dabrafenib init_params.init_seed=4
+2022-10-26 01:16:15 INFO Running runs: ['fej465h7']
+2022-10-26 01:45:28 INFO Cleaning up finished run: pqq6mua3
+2022-10-26 01:45:28 INFO Agent received command: run
+2022-10-26 01:45:28 INFO Agent starting run with config:
+	drug.name: dacarbazine
+	init_params.init_seed: 0
+2022-10-26 01:45:28 INFO About to run command: python3 evaluate_neural_dual.py drug.name=dacarbazine init_params.init_seed=0
+2022-10-26 01:45:34 INFO Running runs: ['sgb6ylps']
+2022-10-26 01:49:25 INFO Cleaning up finished run: wql4mb8m
+2022-10-26 01:49:25 INFO Agent received command: run
+2022-10-26 01:49:25 INFO Agent starting run with config:
+	drug.name: dacarbazine
+	init_params.init_seed: 1
+2022-10-26 01:49:25 INFO About to run command: python3 evaluate_neural_dual.py drug.name=dacarbazine init_params.init_seed=1
+2022-10-26 01:49:30 INFO Running runs: ['pbzery0z']
+2022-10-26 02:01:28 INFO Cleaning up finished run: xyolykx0
+2022-10-26 02:01:28 INFO Agent received command: run
+2022-10-26 02:01:28 INFO Agent starting run with config:
+	drug.name: dacarbazine
+	init_params.init_seed: 2
+2022-10-26 02:01:28 INFO About to run command: python3 evaluate_neural_dual.py drug.name=dacarbazine init_params.init_seed=2
+2022-10-26 02:01:33 INFO Running runs: ['ea8ow94p']
+2022-10-26 02:02:33 INFO Cleaning up finished run: bw9akb12
+2022-10-26 02:02:33 INFO Agent received command: run
+2022-10-26 02:02:33 INFO Agent starting run with config:
+	drug.name: dacarbazine
+	init_params.init_seed: 3
+2022-10-26 02:02:33 INFO About to run command: python3 evaluate_neural_dual.py drug.name=dacarbazine init_params.init_seed=3
+2022-10-26 02:02:38 INFO Running runs: ['vhm077wc']
+2022-10-26 02:06:03 INFO Cleaning up finished run: 9ugzdtqs
+2022-10-26 02:06:03 INFO Agent received command: run
+2022-10-26 02:06:03 INFO Agent starting run with config:
+	drug.name: dacarbazine
+	init_params.init_seed: 4
+2022-10-26 02:06:03 INFO About to run command: python3 evaluate_neural_dual.py drug.name=dacarbazine init_params.init_seed=4
+2022-10-26 02:06:08 INFO Running runs: ['bw7zd85j']
+2022-10-26 02:14:32 INFO Cleaning up finished run: fej465h7
+2022-10-26 02:14:33 INFO Agent received command: run
+2022-10-26 02:14:33 INFO Agent starting run with config:
+	drug.name: dasatinib
+	init_params.init_seed: 0
+2022-10-26 02:14:33 INFO About to run command: python3 evaluate_neural_dual.py drug.name=dasatinib init_params.init_seed=0
+2022-10-26 02:14:38 INFO Running runs: ['clgiev3g']
+2022-10-26 02:42:04 INFO Cleaning up finished run: sgb6ylps
+2022-10-26 02:42:04 INFO Agent received command: run
+2022-10-26 02:42:04 INFO Agent starting run with config:
+	drug.name: dasatinib
+	init_params.init_seed: 1
+2022-10-26 02:42:04 INFO About to run command: python3 evaluate_neural_dual.py drug.name=dasatinib init_params.init_seed=1
+2022-10-26 02:42:09 INFO Running runs: ['b7d6aeh7']
+2022-10-26 02:47:19 INFO Cleaning up finished run: pbzery0z
+2022-10-26 02:47:19 INFO Agent received command: run
+2022-10-26 02:47:19 INFO Agent starting run with config:
+	drug.name: dasatinib
+	init_params.init_seed: 2
+2022-10-26 02:47:19 INFO About to run command: python3 evaluate_neural_dual.py drug.name=dasatinib init_params.init_seed=2
+2022-10-26 02:47:24 INFO Running runs: ['x15zo6vl']
+2022-10-26 02:55:39 INFO Cleaning up finished run: ea8ow94p
+2022-10-26 02:55:39 INFO Agent received command: run
+2022-10-26 02:55:39 INFO Agent starting run with config:
+	drug.name: dasatinib
+	init_params.init_seed: 3
+2022-10-26 02:55:39 INFO About to run command: python3 evaluate_neural_dual.py drug.name=dasatinib init_params.init_seed=3
+2022-10-26 02:55:44 INFO Running runs: ['vpnbb2yr']
+2022-10-26 02:56:28 INFO Cleaning up finished run: vhm077wc
+2022-10-26 02:56:28 INFO Agent received command: run
+2022-10-26 02:56:28 INFO Agent starting run with config:
+	drug.name: dasatinib
+	init_params.init_seed: 4
+2022-10-26 02:56:28 INFO About to run command: python3 evaluate_neural_dual.py drug.name=dasatinib init_params.init_seed=4
+2022-10-26 02:56:33 INFO Running runs: ['qj0ofj76']
+2022-10-26 03:02:06 INFO Cleaning up finished run: bw7zd85j
+2022-10-26 03:02:07 INFO Agent received command: run
+2022-10-26 03:02:07 INFO Agent starting run with config:
+	drug.name: decitabine
+	init_params.init_seed: 0
+2022-10-26 03:02:07 INFO About to run command: python3 evaluate_neural_dual.py drug.name=decitabine init_params.init_seed=0
+2022-10-26 03:02:12 INFO Running runs: ['j2cncb77']
+2022-10-26 03:11:41 INFO Cleaning up finished run: clgiev3g
+2022-10-26 03:11:41 INFO Agent received command: run
+2022-10-26 03:11:41 INFO Agent starting run with config:
+	drug.name: decitabine
+	init_params.init_seed: 1
+2022-10-26 03:11:41 INFO About to run command: python3 evaluate_neural_dual.py drug.name=decitabine init_params.init_seed=1
+2022-10-26 03:11:46 INFO Running runs: ['vi91m4lf']
+2022-10-26 03:37:36 INFO Cleaning up finished run: b7d6aeh7
+2022-10-26 03:37:36 INFO Agent received command: run
+2022-10-26 03:37:36 INFO Agent starting run with config:
+	drug.name: decitabine
+	init_params.init_seed: 2
+2022-10-26 03:37:36 INFO About to run command: python3 evaluate_neural_dual.py drug.name=decitabine init_params.init_seed=2
+2022-10-26 03:37:41 INFO Running runs: ['tu1fvi09']
+2022-10-26 03:44:50 INFO Cleaning up finished run: x15zo6vl
+2022-10-26 03:44:50 INFO Agent received command: run
+2022-10-26 03:44:50 INFO Agent starting run with config:
+	drug.name: decitabine
+	init_params.init_seed: 3
+2022-10-26 03:44:50 INFO About to run command: python3 evaluate_neural_dual.py drug.name=decitabine init_params.init_seed=3
+2022-10-26 03:44:55 INFO Running runs: ['nyty1cay']
+2022-10-26 03:49:32 INFO Cleaning up finished run: vpnbb2yr
+2022-10-26 03:49:32 INFO Agent received command: run
+2022-10-26 03:49:32 INFO Agent starting run with config:
+	drug.name: decitabine
+	init_params.init_seed: 4
+2022-10-26 03:49:32 INFO About to run command: python3 evaluate_neural_dual.py drug.name=decitabine init_params.init_seed=4
+2022-10-26 03:49:36 INFO Cleaning up finished run: qj0ofj76
+2022-10-26 03:49:37 INFO Agent received command: run
+2022-10-26 03:49:37 INFO Agent starting run with config:
+	drug.name: dexamethasone
+	init_params.init_seed: 0
+2022-10-26 03:49:37 INFO About to run command: python3 evaluate_neural_dual.py drug.name=dexamethasone init_params.init_seed=0
+2022-10-26 03:49:38 INFO Running runs: ['qxrpg742']
+2022-10-26 03:49:42 INFO Running runs: ['wb49mrjq']
+2022-10-26 03:56:39 INFO Cleaning up finished run: j2cncb77
+2022-10-26 03:56:40 INFO Agent received command: run
+2022-10-26 03:56:40 INFO Agent starting run with config:
+	drug.name: dexamethasone
+	init_params.init_seed: 1
+2022-10-26 03:56:40 INFO About to run command: python3 evaluate_neural_dual.py drug.name=dexamethasone init_params.init_seed=1
+2022-10-26 03:56:45 INFO Running runs: ['0z6uebrm']
+2022-10-26 04:07:27 INFO Cleaning up finished run: vi91m4lf
+2022-10-26 04:07:28 INFO Agent received command: run
+2022-10-26 04:07:28 INFO Agent starting run with config:
+	drug.name: dexamethasone
+	init_params.init_seed: 2
+2022-10-26 04:07:28 INFO About to run command: python3 evaluate_neural_dual.py drug.name=dexamethasone init_params.init_seed=2
+2022-10-26 04:07:33 INFO Running runs: ['a3wukhc9']
+2022-10-26 04:33:01 INFO Cleaning up finished run: tu1fvi09
+2022-10-26 04:33:01 INFO Agent received command: run
+2022-10-26 04:33:01 INFO Agent starting run with config:
+	drug.name: dexamethasone
+	init_params.init_seed: 3
+2022-10-26 04:33:01 INFO About to run command: python3 evaluate_neural_dual.py drug.name=dexamethasone init_params.init_seed=3
+2022-10-26 04:33:07 INFO Running runs: ['ypufwkzm']
+2022-10-26 04:40:37 INFO Cleaning up finished run: nyty1cay
+2022-10-26 04:40:37 INFO Agent received command: run
+2022-10-26 04:40:37 INFO Agent starting run with config:
+	drug.name: dexamethasone
+	init_params.init_seed: 4
+2022-10-26 04:40:37 INFO About to run command: python3 evaluate_neural_dual.py drug.name=dexamethasone init_params.init_seed=4
+2022-10-26 04:40:42 INFO Running runs: ['mmke4ww3']
+2022-10-26 04:43:18 INFO Cleaning up finished run: qxrpg742
+2022-10-26 04:43:18 INFO Agent received command: run
+2022-10-26 04:43:18 INFO Agent starting run with config:
+	drug.name: erlotinib
+	init_params.init_seed: 0
+2022-10-26 04:43:18 INFO About to run command: python3 evaluate_neural_dual.py drug.name=erlotinib init_params.init_seed=0
+2022-10-26 04:43:23 INFO Running runs: ['vhvme6i0']
+2022-10-26 04:43:25 INFO Cleaning up finished run: wb49mrjq
+2022-10-26 04:43:25 INFO Agent received command: run
+2022-10-26 04:43:25 INFO Agent starting run with config:
+	drug.name: erlotinib
+	init_params.init_seed: 1
+2022-10-26 04:43:25 INFO About to run command: python3 evaluate_neural_dual.py drug.name=erlotinib init_params.init_seed=1
+2022-10-26 04:43:30 INFO Running runs: ['ouzy6i5q']
+2022-10-26 04:53:56 INFO Cleaning up finished run: 0z6uebrm
+2022-10-26 04:53:57 INFO Agent received command: run
+2022-10-26 04:53:57 INFO Agent starting run with config:
+	drug.name: erlotinib
+	init_params.init_seed: 2
+2022-10-26 04:53:57 INFO About to run command: python3 evaluate_neural_dual.py drug.name=erlotinib init_params.init_seed=2
+2022-10-26 04:54:02 INFO Running runs: ['6fq4wkp0']
+2022-10-26 05:00:51 INFO Cleaning up finished run: a3wukhc9
+2022-10-26 05:00:51 INFO Agent received command: run
+2022-10-26 05:00:51 INFO Agent starting run with config:
+	drug.name: erlotinib
+	init_params.init_seed: 3
+2022-10-26 05:00:51 INFO About to run command: python3 evaluate_neural_dual.py drug.name=erlotinib init_params.init_seed=3
+2022-10-26 05:00:56 INFO Running runs: ['g9o6cb6h']
+2022-10-26 05:28:23 INFO Cleaning up finished run: ypufwkzm
+2022-10-26 05:28:23 INFO Agent received command: run
+2022-10-26 05:28:23 INFO Agent starting run with config:
+	drug.name: erlotinib
+	init_params.init_seed: 4
+2022-10-26 05:28:23 INFO About to run command: python3 evaluate_neural_dual.py drug.name=erlotinib init_params.init_seed=4
+2022-10-26 05:28:28 INFO Running runs: ['tutmt1k4']
+2022-10-26 05:33:55 INFO Cleaning up finished run: mmke4ww3
+2022-10-26 05:33:55 INFO Agent received command: run
+2022-10-26 05:33:55 INFO Agent starting run with config:
+	drug.name: everolimus
+	init_params.init_seed: 0
+2022-10-26 05:33:55 INFO About to run command: python3 evaluate_neural_dual.py drug.name=everolimus init_params.init_seed=0
+2022-10-26 05:34:00 INFO Running runs: ['h81agwfc']
+2022-10-26 05:40:22 INFO Cleaning up finished run: ouzy6i5q
+2022-10-26 05:40:23 INFO Agent received command: run
+2022-10-26 05:40:23 INFO Agent starting run with config:
+	drug.name: everolimus
+	init_params.init_seed: 1
+2022-10-26 05:40:23 INFO About to run command: python3 evaluate_neural_dual.py drug.name=everolimus init_params.init_seed=1
+2022-10-26 05:40:28 INFO Running runs: ['5hmy2u9q']
+2022-10-26 05:40:58 INFO Cleaning up finished run: vhvme6i0
+2022-10-26 05:40:58 INFO Agent received command: run
+2022-10-26 05:40:58 INFO Agent starting run with config:
+	drug.name: everolimus
+	init_params.init_seed: 2
+2022-10-26 05:40:58 INFO About to run command: python3 evaluate_neural_dual.py drug.name=everolimus init_params.init_seed=2
+2022-10-26 05:41:03 INFO Running runs: ['o1smc6w5']
+2022-10-26 05:48:36 INFO Cleaning up finished run: 6fq4wkp0
+2022-10-26 05:48:36 INFO Agent received command: run
+2022-10-26 05:48:36 INFO Agent starting run with config:
+	drug.name: everolimus
+	init_params.init_seed: 3
+2022-10-26 05:48:36 INFO About to run command: python3 evaluate_neural_dual.py drug.name=everolimus init_params.init_seed=3
+2022-10-26 05:48:41 INFO Running runs: ['os5xnlqz']
+2022-10-26 05:53:31 INFO Cleaning up finished run: g9o6cb6h
+2022-10-26 05:53:31 INFO Agent received command: run
+2022-10-26 05:53:31 INFO Agent starting run with config:
+	drug.name: everolimus
+	init_params.init_seed: 4
+2022-10-26 05:53:31 INFO About to run command: python3 evaluate_neural_dual.py drug.name=everolimus init_params.init_seed=4
+2022-10-26 05:53:36 INFO Running runs: ['16wxn17i']
+2022-10-26 06:25:00 INFO Cleaning up finished run: tutmt1k4
+2022-10-26 06:25:01 INFO Agent received command: run
+2022-10-26 06:25:01 INFO Agent starting run with config:
+	drug.name: hydroxyurea
+	init_params.init_seed: 0
+2022-10-26 06:25:01 INFO About to run command: python3 evaluate_neural_dual.py drug.name=hydroxyurea init_params.init_seed=0
+2022-10-26 06:25:06 INFO Running runs: ['i8o14xlv']
+2022-10-26 06:26:44 INFO Cleaning up finished run: h81agwfc
+2022-10-26 06:26:44 INFO Agent received command: run
+2022-10-26 06:26:44 INFO Agent starting run with config:
+	drug.name: hydroxyurea
+	init_params.init_seed: 1
+2022-10-26 06:26:44 INFO About to run command: python3 evaluate_neural_dual.py drug.name=hydroxyurea init_params.init_seed=1
+2022-10-26 06:26:49 INFO Running runs: ['i2bj6ztm']
+2022-10-26 06:37:54 INFO Cleaning up finished run: 5hmy2u9q
+2022-10-26 06:37:54 INFO Agent received command: run
+2022-10-26 06:37:54 INFO Agent starting run with config:
+	drug.name: hydroxyurea
+	init_params.init_seed: 2
+2022-10-26 06:37:54 INFO About to run command: python3 evaluate_neural_dual.py drug.name=hydroxyurea init_params.init_seed=2
+2022-10-26 06:37:59 INFO Running runs: ['l42l1cnq']
+2022-10-26 06:39:35 INFO Cleaning up finished run: o1smc6w5
+2022-10-26 06:39:35 INFO Agent received command: run
+2022-10-26 06:39:35 INFO Agent starting run with config:
+	drug.name: hydroxyurea
+	init_params.init_seed: 3
+2022-10-26 06:39:35 INFO About to run command: python3 evaluate_neural_dual.py drug.name=hydroxyurea init_params.init_seed=3
+2022-10-26 06:39:40 INFO Running runs: ['yb4r8ljo']
+2022-10-26 06:46:20 INFO Cleaning up finished run: 16wxn17i
+2022-10-26 06:46:20 INFO Agent received command: run
+2022-10-26 06:46:20 INFO Agent starting run with config:
+	drug.name: hydroxyurea
+	init_params.init_seed: 4
+2022-10-26 06:46:20 INFO About to run command: python3 evaluate_neural_dual.py drug.name=hydroxyurea init_params.init_seed=4
+2022-10-26 06:46:25 INFO Running runs: ['e1dl8zqc']
+2022-10-26 06:48:31 INFO Cleaning up finished run: os5xnlqz
+2022-10-26 06:48:31 INFO Agent received command: run
+2022-10-26 06:48:31 INFO Agent starting run with config:
+	drug.name: imatinib
+	init_params.init_seed: 0
+2022-10-26 06:48:31 INFO About to run command: python3 evaluate_neural_dual.py drug.name=imatinib init_params.init_seed=0
+2022-10-26 06:48:36 INFO Running runs: ['y50ay0hs']
+2022-10-26 07:17:24 INFO Cleaning up finished run: i8o14xlv
+2022-10-26 07:17:24 INFO Agent received command: run
+2022-10-26 07:17:24 INFO Agent starting run with config:
+	drug.name: imatinib
+	init_params.init_seed: 1
+2022-10-26 07:17:24 INFO About to run command: python3 evaluate_neural_dual.py drug.name=imatinib init_params.init_seed=1
+2022-10-26 07:17:29 INFO Running runs: ['798mwdz8']
+2022-10-26 07:19:05 INFO Cleaning up finished run: i2bj6ztm
+2022-10-26 07:19:06 INFO Agent received command: run
+2022-10-26 07:19:06 INFO Agent starting run with config:
+	drug.name: imatinib
+	init_params.init_seed: 2
+2022-10-26 07:19:06 INFO About to run command: python3 evaluate_neural_dual.py drug.name=imatinib init_params.init_seed=2
+2022-10-26 07:19:11 INFO Running runs: ['y9oolsv9']
+2022-10-26 07:34:09 INFO Cleaning up finished run: l42l1cnq
+2022-10-26 07:34:09 INFO Agent received command: run
+2022-10-26 07:34:09 INFO Agent starting run with config:
+	drug.name: imatinib
+	init_params.init_seed: 3
+2022-10-26 07:34:09 INFO About to run command: python3 evaluate_neural_dual.py drug.name=imatinib init_params.init_seed=3
+2022-10-26 07:34:14 INFO Running runs: ['a5avz8qp']
+2022-10-26 07:37:47 INFO Cleaning up finished run: yb4r8ljo
+2022-10-26 07:37:47 INFO Agent received command: run
+2022-10-26 07:37:47 INFO Agent starting run with config:
+	drug.name: imatinib
+	init_params.init_seed: 4
+2022-10-26 07:37:47 INFO About to run command: python3 evaluate_neural_dual.py drug.name=imatinib init_params.init_seed=4
+2022-10-26 07:37:52 INFO Running runs: ['7lvrf447']
+2022-10-26 07:39:27 INFO Cleaning up finished run: e1dl8zqc
+2022-10-26 07:39:28 INFO Agent received command: run
+2022-10-26 07:39:28 INFO Agent starting run with config:
+	drug.name: ixazomib
+	init_params.init_seed: 0
+2022-10-26 07:39:28 INFO About to run command: python3 evaluate_neural_dual.py drug.name=ixazomib init_params.init_seed=0
+2022-10-26 07:39:33 INFO Running runs: ['rlkrc1hs']
+2022-10-26 07:46:34 INFO Cleaning up finished run: y50ay0hs
+2022-10-26 07:46:34 INFO Agent received command: run
+2022-10-26 07:46:34 INFO Agent starting run with config:
+	drug.name: ixazomib
+	init_params.init_seed: 1
+2022-10-26 07:46:34 INFO About to run command: python3 evaluate_neural_dual.py drug.name=ixazomib init_params.init_seed=1
+2022-10-26 07:46:39 INFO Running runs: ['3m6p8apo']
+2022-10-26 08:09:12 INFO Cleaning up finished run: 798mwdz8
+2022-10-26 08:09:12 INFO Agent received command: run
+2022-10-26 08:09:12 INFO Agent starting run with config:
+	drug.name: ixazomib
+	init_params.init_seed: 2
+2022-10-26 08:09:12 INFO About to run command: python3 evaluate_neural_dual.py drug.name=ixazomib init_params.init_seed=2
+2022-10-26 08:09:17 INFO Running runs: ['w56cws5d']
+2022-10-26 08:16:47 INFO Cleaning up finished run: y9oolsv9
+2022-10-26 08:16:48 INFO Agent received command: run
+2022-10-26 08:16:48 INFO Agent starting run with config:
+	drug.name: ixazomib
+	init_params.init_seed: 3
+2022-10-26 08:16:48 INFO About to run command: python3 evaluate_neural_dual.py drug.name=ixazomib init_params.init_seed=3
+2022-10-26 08:16:53 INFO Running runs: ['9iqklo3c']
+2022-10-26 08:26:59 INFO Cleaning up finished run: a5avz8qp
+2022-10-26 08:27:00 INFO Agent received command: run
+2022-10-26 08:27:00 INFO Agent starting run with config:
+	drug.name: ixazomib
+	init_params.init_seed: 4
+2022-10-26 08:27:00 INFO About to run command: python3 evaluate_neural_dual.py drug.name=ixazomib init_params.init_seed=4
+2022-10-26 08:27:05 INFO Running runs: ['en0tavwe']
+2022-10-26 08:33:06 INFO Cleaning up finished run: 7lvrf447
+2022-10-26 08:33:07 INFO Agent received command: run
+2022-10-26 08:33:07 INFO Agent starting run with config:
+	drug.name: ixazomib_lenalidomide_dexamethasone
+	init_params.init_seed: 0
+2022-10-26 08:33:07 INFO About to run command: python3 evaluate_neural_dual.py drug.name=ixazomib_lenalidomide_dexamethasone init_params.init_seed=0
+2022-10-26 08:33:12 INFO Running runs: ['x6s8ggot']
+2022-10-26 08:35:38 INFO Cleaning up finished run: rlkrc1hs
+2022-10-26 08:35:38 INFO Agent received command: run
+2022-10-26 08:35:38 INFO Agent starting run with config:
+	drug.name: ixazomib_lenalidomide_dexamethasone
+	init_params.init_seed: 1
+2022-10-26 08:35:38 INFO About to run command: python3 evaluate_neural_dual.py drug.name=ixazomib_lenalidomide_dexamethasone init_params.init_seed=1
+2022-10-26 08:35:43 INFO Running runs: ['sbzddw81']
+2022-10-26 08:44:21 INFO Cleaning up finished run: 3m6p8apo
+2022-10-26 08:44:21 INFO Agent received command: run
+2022-10-26 08:44:21 INFO Agent starting run with config:
+	drug.name: ixazomib_lenalidomide_dexamethasone
+	init_params.init_seed: 2
+2022-10-26 08:44:21 INFO About to run command: python3 evaluate_neural_dual.py drug.name=ixazomib_lenalidomide_dexamethasone init_params.init_seed=2
+2022-10-26 08:44:26 INFO Running runs: ['bmrbcqnn']
+2022-10-26 09:02:00 INFO Cleaning up finished run: w56cws5d
+2022-10-26 09:02:01 INFO Agent received command: run
+2022-10-26 09:02:01 INFO Agent starting run with config:
+	drug.name: ixazomib_lenalidomide_dexamethasone
+	init_params.init_seed: 3
+2022-10-26 09:02:01 INFO About to run command: python3 evaluate_neural_dual.py drug.name=ixazomib_lenalidomide_dexamethasone init_params.init_seed=3
+2022-10-26 09:02:06 INFO Running runs: ['p3o7iuup']
+2022-10-26 09:12:49 INFO Cleaning up finished run: 9iqklo3c
+2022-10-26 09:12:49 INFO Agent received command: run
+2022-10-26 09:12:49 INFO Agent starting run with config:
+	drug.name: ixazomib_lenalidomide_dexamethasone
+	init_params.init_seed: 4
+2022-10-26 09:12:49 INFO About to run command: python3 evaluate_neural_dual.py drug.name=ixazomib_lenalidomide_dexamethasone init_params.init_seed=4
+2022-10-26 09:12:54 INFO Running runs: ['eo1qr74y']
+2022-10-26 09:19:29 INFO Cleaning up finished run: en0tavwe
+2022-10-26 09:19:29 INFO Agent received command: run
+2022-10-26 09:19:29 INFO Agent starting run with config:
+	drug.name: lenalidomide
+	init_params.init_seed: 0
+2022-10-26 09:19:29 INFO About to run command: python3 evaluate_neural_dual.py drug.name=lenalidomide init_params.init_seed=0
+2022-10-26 09:19:34 INFO Running runs: ['o8aoiuqw']
+2022-10-26 09:27:06 INFO Cleaning up finished run: x6s8ggot
+2022-10-26 09:27:06 INFO Agent received command: run
+2022-10-26 09:27:06 INFO Agent starting run with config:
+	drug.name: lenalidomide
+	init_params.init_seed: 1
+2022-10-26 09:27:06 INFO About to run command: python3 evaluate_neural_dual.py drug.name=lenalidomide init_params.init_seed=1
+2022-10-26 09:27:11 INFO Running runs: ['ocbc9nb8']
+2022-10-26 09:31:26 INFO Cleaning up finished run: sbzddw81
+2022-10-26 09:31:26 INFO Agent received command: run
+2022-10-26 09:31:26 INFO Agent starting run with config:
+	drug.name: lenalidomide
+	init_params.init_seed: 2
+2022-10-26 09:31:26 INFO About to run command: python3 evaluate_neural_dual.py drug.name=lenalidomide init_params.init_seed=2
+2022-10-26 09:31:31 INFO Running runs: ['40748nsf']
+2022-10-26 09:39:49 INFO Running runs: []
+2022-10-26 09:39:49 INFO Agent received command: run
+2022-10-26 09:39:49 INFO Agent starting run with config:
+	drug.name: lenalidomide
+	init_params.init_seed: 3
+2022-10-26 09:39:49 INFO About to run command: python3 evaluate_neural_dual.py drug.name=lenalidomide init_params.init_seed=3
+2022-10-26 09:39:54 INFO Running runs: ['e2j8tl4y']
+2022-10-26 09:41:31 INFO Cleaning up finished run: bmrbcqnn
+2022-10-26 09:41:31 INFO Agent received command: run
+2022-10-26 09:41:31 INFO Agent starting run with config:
+	drug.name: lenalidomide
+	init_params.init_seed: 4
+2022-10-26 09:41:31 INFO About to run command: python3 evaluate_neural_dual.py drug.name=lenalidomide init_params.init_seed=4
+2022-10-26 09:41:36 INFO Running runs: ['tgeds8ty']
+2022-10-26 09:42:05 INFO Running runs: []
+2022-10-26 09:42:05 INFO Agent received command: run
+2022-10-26 09:42:05 INFO Agent starting run with config:
+	drug.name: melphalan
+	init_params.init_seed: 0
+2022-10-26 09:42:05 INFO About to run command: python3 evaluate_neural_dual.py drug.name=melphalan init_params.init_seed=0
+2022-10-26 09:42:10 INFO Running runs: ['30h5xaak']
+2022-10-26 09:43:22 INFO Running runs: []
+2022-10-26 09:43:23 INFO Agent received command: run
+2022-10-26 09:43:23 INFO Agent starting run with config:
+	drug.name: melphalan
+	init_params.init_seed: 1
+2022-10-26 09:43:23 INFO About to run command: python3 evaluate_neural_dual.py drug.name=melphalan init_params.init_seed=1
+2022-10-26 09:43:28 INFO Running runs: ['q7mfhjvb']

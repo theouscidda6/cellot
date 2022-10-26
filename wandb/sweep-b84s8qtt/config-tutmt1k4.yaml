@@ -1,0 +1,6 @@
+wandb_version: 1
+
+drug.name:
+  value: erlotinib
+init_params.init_seed:
+  value: 4

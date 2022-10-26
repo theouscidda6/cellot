@@ -1,0 +1,6 @@
+wandb_version: 1
+
+drug.name:
+  value: ixazomib_lenalidomide_dexamethasone
+init_params.init_seed:
+  value: 1

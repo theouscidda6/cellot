@@ -1,0 +1,56 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.13.3
+    framework: torch
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    python_version: 3.7.10
+    start_time: 1666766685.728196
+    t:
+      1:
+      - 1
+      - 5
+      - 12
+      - 45
+      - 50
+      - 53
+      - 55
+      2:
+      - 1
+      - 5
+      - 12
+      - 45
+      - 50
+      - 53
+      - 55
+      3:
+      - 2
+      - 16
+      - 17
+      - 23
+      - 37
+      4: 3.7.10
+      5: 0.13.3
+      8:
+      - 5
+drug:
+  desc: null
+  value:
+    name: ixazomib_lenalidomide_dexamethasone
+    type: 4i
+    where: data_space
+drug.name:
+  desc: null
+  value: ixazomib_lenalidomide_dexamethasone
+init_params:
+  desc: null
+  value:
+    init_seed: 2
+    init_std: 0.001
+    num_samples_init: 2048
+init_params.init_seed:
+  desc: null
+  value: 2

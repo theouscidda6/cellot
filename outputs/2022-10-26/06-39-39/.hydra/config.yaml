@@ -1,0 +1,8 @@
+init_params:
+  init_seed: 3
+  init_std: 0.001
+  num_samples_init: 2048
+drug:
+  name: hydroxyurea
+  type: 4i
+  where: data_space

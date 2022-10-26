@@ -57,6 +57,9 @@ def main(argv):
     control, treated, imputed = load_conditions(expdir, where, setting)
     imputed.write(cache)
     imputed = imputed.to_df()
+    
+    print(control)
+    print(treated)
 
     if FLAGS.n_markers is not None:
         data = read_single_anndata(config, path=None)

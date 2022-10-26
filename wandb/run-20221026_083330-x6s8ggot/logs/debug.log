@@ -1,0 +1,150 @@
+2022-10-26 08:33:30,422 INFO    MainThread:12188 [wandb_setup.py:_flush():68] Configure stats pid to 12188
+2022-10-26 08:33:30,422 INFO    MainThread:12188 [wandb_setup.py:_flush():68] Loading settings from /home/theouscidda/.config/wandb/settings
+2022-10-26 08:33:30,422 INFO    MainThread:12188 [wandb_setup.py:_flush():68] Loading settings from /home/theouscidda/cellot/wandb/settings
+2022-10-26 08:33:30,422 INFO    MainThread:12188 [wandb_setup.py:_flush():68] Loading settings from environment variables: {'_require_service': 'True', 'entity': 'theouscidda', 'project': 'cellot', 'sweep_id': 'b84s8qtt', 'root_dir': '/home/theouscidda/cellot', 'run_id': 'x6s8ggot', 'sweep_param_path': '/home/theouscidda/cellot/wandb/sweep-b84s8qtt/config-x6s8ggot.yaml'}
+2022-10-26 08:33:30,422 INFO    MainThread:12188 [wandb_setup.py:_flush():68] Inferring run settings from compute environment: {'program_relpath': 'evaluate_neural_dual.py', 'program': 'evaluate_neural_dual.py'}
+2022-10-26 08:33:30,422 INFO    MainThread:12188 [wandb_init.py:_log_setup():476] Logging user logs to /home/theouscidda/cellot/wandb/run-20221026_083330-x6s8ggot/logs/debug.log
+2022-10-26 08:33:30,423 INFO    MainThread:12188 [wandb_init.py:_log_setup():477] Logging internal logs to /home/theouscidda/cellot/wandb/run-20221026_083330-x6s8ggot/logs/debug-internal.log
+2022-10-26 08:33:30,423 INFO    MainThread:12188 [wandb_init.py:init():516] calling init triggers
+2022-10-26 08:33:30,423 INFO    MainThread:12188 [wandb_init.py:init():520] wandb.init called with sweep_config: {'drug.name': 'ixazomib_lenalidomide_dexamethasone', 'init_params.init_seed': 0}
+config: {'init_params': {'init_seed': 0, 'init_std': 0.001, 'num_samples_init': 2048}, 'drug': {'name': 'ixazomib_lenalidomide_dexamethasone', 'type': '4i', 'where': 'data_space'}}
+2022-10-26 08:33:30,423 INFO    MainThread:12188 [wandb_init.py:init():569] starting backend
+2022-10-26 08:33:30,423 INFO    MainThread:12188 [wandb_init.py:init():573] setting up manager
+2022-10-26 08:33:30,435 INFO    MainThread:12188 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2022-10-26 08:33:30,444 INFO    MainThread:12188 [wandb_init.py:init():580] backend started and connected
+2022-10-26 08:33:30,453 INFO    MainThread:12188 [wandb_run.py:_config_callback():1145] config_cb None None {'drug.name': 'ixazomib_lenalidomide_dexamethasone', 'init_params.init_seed': 0}
+2022-10-26 08:33:30,460 INFO    MainThread:12188 [wandb_init.py:init():658] updated telemetry
+2022-10-26 08:33:30,526 INFO    MainThread:12188 [wandb_init.py:init():693] communicating run to backend with 30 second timeout
+2022-10-26 08:33:30,874 INFO    MainThread:12188 [wandb_run.py:_on_init():1974] communicating current version
+2022-10-26 08:33:30,923 INFO    MainThread:12188 [wandb_run.py:_on_init():1978] got version response upgrade_message: "wandb version 0.13.4 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2022-10-26 08:33:30,923 INFO    MainThread:12188 [wandb_init.py:init():727] starting run threads in backend
+2022-10-26 08:33:34,240 INFO    MainThread:12188 [wandb_run.py:_console_start():1954] atexit reg
+2022-10-26 08:33:34,241 INFO    MainThread:12188 [wandb_run.py:_redirect():1812] redirect: SettingsConsole.WRAP_RAW
+2022-10-26 08:33:34,241 INFO    MainThread:12188 [wandb_run.py:_redirect():1877] Wrapping output streams.
+2022-10-26 08:33:34,241 INFO    MainThread:12188 [wandb_run.py:_redirect():1899] Redirects installed.
+2022-10-26 08:33:34,242 INFO    MainThread:12188 [wandb_init.py:init():764] run started, returning control to user process
+2022-10-26 09:26:57,498 INFO    MainThread:12188 [wandb_run.py:_finish():1720] finishing run theouscidda/cellot/x6s8ggot
+2022-10-26 09:26:57,498 INFO    MainThread:12188 [wandb_run.py:_atexit_cleanup():1923] got exitcode: 0
+2022-10-26 09:26:57,498 INFO    MainThread:12188 [wandb_run.py:_restore():1906] restore
+2022-10-26 09:26:57,498 INFO    MainThread:12188 [wandb_run.py:_restore():1912] restore done
+2022-10-26 09:26:57,509 INFO    MainThread:12188 [wandb_run.py:_on_finish():2224] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 882
+  total_bytes: 882
+}
+
+2022-10-26 09:26:57,831 INFO    MainThread:12188 [wandb_run.py:_on_finish():2224] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 882
+  total_bytes: 882
+}
+
+2022-10-26 09:26:58,010 INFO    MainThread:12188 [wandb_run.py:_on_finish():2224] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 882
+  total_bytes: 882
+}
+
+2022-10-26 09:26:59,024 INFO    MainThread:12188 [wandb_run.py:_on_finish():2224] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 882
+  total_bytes: 882
+}
+
+2022-10-26 09:26:59,289 INFO    MainThread:12188 [wandb_run.py:_on_finish():2224] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 882
+  total_bytes: 10073
+}
+
+2022-10-26 09:26:59,392 INFO    MainThread:12188 [wandb_run.py:_on_finish():2224] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 882
+  total_bytes: 10073
+}
+
+2022-10-26 09:26:59,495 INFO    MainThread:12188 [wandb_run.py:_on_finish():2224] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 10073
+  total_bytes: 10073
+}
+
+2022-10-26 09:26:59,599 INFO    MainThread:12188 [wandb_run.py:_on_finish():2224] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 10073
+  total_bytes: 10073
+}
+
+2022-10-26 09:26:59,703 INFO    MainThread:12188 [wandb_run.py:_on_finish():2224] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 10073
+  total_bytes: 10073
+}
+
+2022-10-26 09:26:59,806 INFO    MainThread:12188 [wandb_run.py:_on_finish():2224] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 10073
+  total_bytes: 10073
+}
+
+2022-10-26 09:26:59,909 INFO    MainThread:12188 [wandb_run.py:_on_finish():2224] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 10073
+  total_bytes: 10073
+}
+
+2022-10-26 09:27:00,013 INFO    MainThread:12188 [wandb_run.py:_on_finish():2224] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 10073
+  total_bytes: 10073
+}
+
+2022-10-26 09:27:00,211 INFO    MainThread:12188 [wandb_run.py:_on_finish():2224] got exit ret: file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 10073
+  total_bytes: 10073
+}
+
+2022-10-26 09:27:00,591 INFO    MainThread:12188 [wandb_run.py:_on_finish():2224] got exit ret: done: true
+exit_result {
+}
+file_counts {
+  wandb_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 10073
+  total_bytes: 10073
+}
+local_info {
+}
+
+2022-10-26 09:27:01,700 INFO    MainThread:12188 [wandb_run.py:_footer_history_summary_info():3321] rendering history
+2022-10-26 09:27:01,700 INFO    MainThread:12188 [wandb_run.py:_footer_history_summary_info():3353] rendering summary
+2022-10-26 09:27:01,706 INFO    MainThread:12188 [wandb_run.py:_footer_sync_info():3277] logging synced files

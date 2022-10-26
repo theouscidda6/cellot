@@ -2,9 +2,22 @@ from cellot.utils.helpers import nest_dict, flat_dict
 from torch.utils.data import DataLoader, Dataset
 from itertools import groupby
 from absl import logging
+import numpy as np
 
 
-def cast_dataset_to_loader(dataset, **kwargs):
+def numpy_collate(batch):
+    if isinstance(batch[0], np.ndarray):
+        return np.stack(batch)
+    elif isinstance(batch[0], (tuple, list)):
+        transposed = zip(*batch)
+        return [numpy_collate(samples) for samples in transposed]
+    else:
+        return np.array(batch)
+
+
+def cast_dataset_to_loader(dataset, 
+                           collate_fn=numpy_collate, 
+                           **kwargs):
     # check if dataset is torch.utils.data.Dataset
     if isinstance(dataset, Dataset):
         return DataLoader(dataset, **kwargs)
@@ -25,6 +38,7 @@ def cast_dataset_to_loader(dataset, **kwargs):
     loader = nest_dict({
         key: DataLoader(
             val,
+            collate_fn=collate_fn,
             batch_size=minimum_batch_size[key.split('.')[0]],
             **kwargs)
         for key, val
