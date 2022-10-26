@@ -1,0 +1,6 @@
+wandb_version: 1
+
+drug.name:
+  value: mln2480
+init_params.init_seed:
+  value: 1

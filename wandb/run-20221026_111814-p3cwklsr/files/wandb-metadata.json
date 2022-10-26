@@ -1,0 +1,27 @@
+{
+    "os": "Linux-4.4.247-1.el7.elrepo.x86_64-x86_64-with-centos-7.6.1810-Core",
+    "python": "3.7.10",
+    "heartbeatAt": "2022-10-26T09:18:15.176179",
+    "startedAt": "2022-10-26T09:18:14.658076",
+    "docker": null,
+    "gpu": "NVIDIA Tesla K80",
+    "gpu_count": 13,
+    "cpu_count": 24,
+    "cuda": null,
+    "args": [
+        "drug.name=mln2480",
+        "init_params.init_seed=4"
+    ],
+    "state": "running",
+    "program": "evaluate_neural_dual.py",
+    "codePath": "evaluate_neural_dual.py",
+    "git": {
+        "remote": "https://github.com/bunnech/cellot",
+        "commit": "d3b44c74a5a91394e27d8e5b0cebfa081c654d18"
+    },
+    "email": "theo.uscidda@gmail.com",
+    "root": "/home/theouscidda/cellot",
+    "host": "gpuserver.ensae.fr",
+    "username": "theouscidda",
+    "executable": "/home/theouscidda/.conda/envs/jax/bin/python3"
+}

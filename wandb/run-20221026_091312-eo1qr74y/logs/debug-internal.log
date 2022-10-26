@@ -1528,3 +1528,831 @@
 2022-10-26 09:50:44,971 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
 2022-10-26 09:50:46,972 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
 2022-10-26 09:50:48,973 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:50:50,974 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:50:52,974 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:50:53,447 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 09:50:53,447 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 09:50:54,976 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:50:56,976 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:50:58,978 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:51:00,979 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:51:02,980 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:51:04,980 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:51:06,366 DEBUG   SenderThread:19620 [sender.py:send():301] send: stats
+2022-10-26 09:51:06,981 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:51:08,586 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 09:51:08,586 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 09:51:08,982 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:51:10,983 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:51:12,984 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:51:14,985 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:51:16,985 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:51:18,986 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:51:20,987 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:51:22,988 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:51:23,732 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 09:51:23,732 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 09:51:24,989 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:51:26,990 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:51:28,991 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:51:30,991 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:51:32,993 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:51:34,993 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:51:36,994 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:51:38,877 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 09:51:38,877 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 09:51:38,995 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:51:39,963 DEBUG   SenderThread:19620 [sender.py:send():301] send: stats
+2022-10-26 09:51:40,996 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:51:42,997 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:51:44,997 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:51:46,998 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:51:48,999 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:51:51,001 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:51:53,002 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:51:54,012 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 09:51:54,012 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 09:51:55,002 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:51:57,003 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:51:59,004 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:52:01,005 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:52:03,006 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:52:05,006 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:52:07,007 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:52:09,008 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:52:09,148 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 09:52:09,149 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 09:52:11,009 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:52:13,010 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:52:13,583 DEBUG   SenderThread:19620 [sender.py:send():301] send: stats
+2022-10-26 09:52:15,011 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:52:17,012 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:52:19,013 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:52:21,013 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:52:23,014 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:52:24,287 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 09:52:24,288 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 09:52:25,015 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:52:27,016 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:52:29,017 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:52:31,018 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:52:33,019 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:52:35,019 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:52:37,020 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:52:39,021 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:52:39,425 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 09:52:39,425 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 09:52:41,022 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:52:43,023 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:52:45,024 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:52:47,024 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:52:47,689 DEBUG   SenderThread:19620 [sender.py:send():301] send: stats
+2022-10-26 09:52:49,025 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:52:51,026 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:52:53,027 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:52:54,565 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 09:52:54,565 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 09:52:55,027 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:52:57,028 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:52:59,029 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:53:01,030 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:53:03,031 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:53:05,032 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:53:07,032 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:53:09,033 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:53:09,698 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 09:53:09,698 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 09:53:11,034 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:53:13,035 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:53:15,036 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:53:17,037 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:53:19,038 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:53:21,039 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:53:21,734 DEBUG   SenderThread:19620 [sender.py:send():301] send: stats
+2022-10-26 09:53:23,040 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:53:24,829 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 09:53:24,830 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 09:53:25,040 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:53:27,041 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:53:29,042 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:53:31,043 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:53:33,044 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:53:35,045 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:53:37,046 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:53:39,046 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:53:39,963 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 09:53:39,964 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 09:53:41,047 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:53:43,048 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:53:45,048 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:53:47,049 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:53:49,050 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:53:51,051 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:53:53,052 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:53:55,053 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:53:55,100 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 09:53:55,100 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 09:53:55,813 DEBUG   SenderThread:19620 [sender.py:send():301] send: stats
+2022-10-26 09:53:57,054 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:53:59,055 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:54:01,056 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:54:03,056 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:54:05,057 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:54:07,058 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:54:09,059 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:54:10,237 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 09:54:10,237 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 09:54:11,060 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:54:13,061 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:54:15,061 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:54:17,062 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:54:19,063 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:54:21,064 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:54:23,065 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:54:25,066 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:54:25,372 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 09:54:25,372 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 09:54:27,067 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:54:29,067 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:54:29,919 DEBUG   SenderThread:19620 [sender.py:send():301] send: stats
+2022-10-26 09:54:31,068 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:54:33,069 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:54:35,070 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:54:37,071 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:54:39,071 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:54:40,505 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 09:54:40,505 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 09:54:41,072 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:54:43,073 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:54:45,074 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:54:47,075 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:54:49,076 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:54:51,077 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:54:53,078 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:54:55,078 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:54:55,664 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 09:54:55,665 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 09:54:57,079 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:54:59,080 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:55:01,081 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:55:03,082 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:55:03,742 DEBUG   SenderThread:19620 [sender.py:send():301] send: stats
+2022-10-26 09:55:05,082 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:55:07,083 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:55:09,084 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:55:10,804 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 09:55:10,804 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 09:55:11,085 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:55:13,086 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:55:15,086 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:55:17,087 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:55:19,088 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:55:21,089 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:55:23,090 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:55:25,090 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:55:25,939 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 09:55:25,939 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 09:55:27,091 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:55:29,092 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:55:31,092 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:55:33,093 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:55:35,094 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:55:37,095 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:55:37,541 DEBUG   SenderThread:19620 [sender.py:send():301] send: stats
+2022-10-26 09:55:39,096 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:55:41,076 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 09:55:41,076 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 09:55:41,096 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:55:43,097 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:55:45,098 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:55:47,099 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:55:49,099 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:55:51,100 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:55:53,101 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:55:55,102 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:55:56,212 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 09:55:56,212 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 09:55:57,103 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:55:59,103 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:56:01,104 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:56:03,105 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:56:05,106 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:56:07,107 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:56:09,108 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:56:11,108 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:56:11,347 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 09:56:11,348 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 09:56:11,735 DEBUG   SenderThread:19620 [sender.py:send():301] send: stats
+2022-10-26 09:56:13,109 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:56:15,110 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:56:17,111 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:56:19,112 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:56:21,112 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:56:23,113 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:56:25,114 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:56:26,485 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 09:56:26,485 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 09:56:27,114 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:56:29,115 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:56:31,116 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:56:33,117 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:56:35,117 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:56:37,118 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:56:39,119 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:56:41,120 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:56:41,626 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 09:56:41,626 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 09:56:43,120 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:56:45,121 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:56:45,589 DEBUG   SenderThread:19620 [sender.py:send():301] send: stats
+2022-10-26 09:56:47,122 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:56:49,123 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:56:51,124 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:56:53,125 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:56:55,126 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:56:56,761 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 09:56:56,761 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 09:56:57,127 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:56:59,128 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:57:01,128 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:57:03,129 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:57:05,130 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:57:07,131 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:57:09,132 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:57:11,133 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:57:11,897 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 09:57:11,898 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 09:57:13,134 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:57:15,135 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:57:17,136 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:57:19,137 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:57:19,238 DEBUG   SenderThread:19620 [sender.py:send():301] send: stats
+2022-10-26 09:57:21,137 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:57:23,138 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:57:25,139 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:57:27,032 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 09:57:27,032 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 09:57:27,140 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:57:29,141 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:57:31,142 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:57:33,143 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:57:35,143 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:57:37,144 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:57:39,145 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:57:41,146 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:57:42,170 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 09:57:42,170 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 09:57:43,147 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:57:45,147 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:57:47,149 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:57:49,150 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:57:51,151 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:57:52,889 DEBUG   SenderThread:19620 [sender.py:send():301] send: stats
+2022-10-26 09:57:53,152 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:57:55,152 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:57:57,153 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:57:57,306 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 09:57:57,307 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 09:57:59,154 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:58:01,155 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:58:03,155 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:58:05,156 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:58:07,157 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:58:09,159 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:58:11,159 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:58:12,447 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 09:58:12,447 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 09:58:13,160 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:58:15,161 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:58:17,162 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:58:19,163 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:58:21,163 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:58:23,164 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:58:25,164 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:58:26,523 DEBUG   SenderThread:19620 [sender.py:send():301] send: stats
+2022-10-26 09:58:27,165 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:58:27,590 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 09:58:27,590 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 09:58:29,166 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:58:31,167 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:58:33,168 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:58:35,169 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:58:37,170 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:58:39,170 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:58:41,171 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:58:42,722 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 09:58:42,723 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 09:58:43,172 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:58:45,173 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:58:47,174 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:58:49,175 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:58:51,176 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:58:53,177 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:58:55,177 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:58:57,178 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:58:57,859 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 09:58:57,859 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 09:58:59,179 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:59:00,080 DEBUG   SenderThread:19620 [sender.py:send():301] send: stats
+2022-10-26 09:59:01,180 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:59:03,181 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:59:05,181 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:59:07,182 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:59:09,183 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:59:11,184 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:59:12,992 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 09:59:12,993 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 09:59:13,184 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:59:15,185 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:59:17,186 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:59:19,187 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:59:21,188 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:59:23,189 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:59:25,189 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:59:27,190 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:59:28,150 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 09:59:28,150 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 09:59:29,191 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:59:31,192 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:59:33,192 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:59:33,719 DEBUG   SenderThread:19620 [sender.py:send():301] send: stats
+2022-10-26 09:59:35,193 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:59:37,194 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:59:40,196 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:59:42,197 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:59:43,290 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 09:59:43,290 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 09:59:44,197 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:59:46,198 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:59:48,199 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:59:50,200 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:59:52,201 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:59:54,202 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:59:56,203 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:59:58,204 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 09:59:58,429 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 09:59:58,430 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 10:00:00,204 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:00:02,205 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:00:04,206 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:00:06,207 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:00:07,549 DEBUG   SenderThread:19620 [sender.py:send():301] send: stats
+2022-10-26 10:00:08,208 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:00:10,209 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:00:12,209 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:00:13,569 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 10:00:13,569 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 10:00:14,210 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:00:16,211 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:00:18,212 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:00:20,212 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:00:22,213 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:00:24,216 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:00:26,217 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:00:28,218 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:00:28,712 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 10:00:28,713 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 10:00:30,219 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:00:32,220 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:00:34,221 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:00:36,221 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:00:38,222 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:00:40,223 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:00:41,358 DEBUG   SenderThread:19620 [sender.py:send():301] send: stats
+2022-10-26 10:00:42,224 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:00:43,845 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 10:00:43,846 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 10:00:44,225 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:00:46,225 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:00:48,226 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:00:50,227 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:00:52,227 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:00:54,228 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:00:56,229 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:00:58,230 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:00:58,982 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 10:00:58,983 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 10:01:00,230 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:01:02,231 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:01:04,232 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:01:06,233 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:01:08,234 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:01:10,234 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:01:12,235 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:01:14,123 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 10:01:14,123 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 10:01:14,236 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:01:15,288 DEBUG   SenderThread:19620 [sender.py:send():301] send: stats
+2022-10-26 10:01:16,237 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:01:18,238 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:01:20,238 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:01:22,239 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:01:24,241 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:01:26,241 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:01:28,242 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:01:29,264 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 10:01:29,265 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 10:01:30,243 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:01:32,244 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:01:34,244 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:01:36,246 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:01:38,246 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:01:40,247 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:01:42,248 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:01:44,248 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:01:44,398 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 10:01:44,398 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 10:01:46,249 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:01:48,250 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:01:49,216 DEBUG   SenderThread:19620 [sender.py:send():301] send: stats
+2022-10-26 10:01:50,251 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:01:52,251 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:01:54,252 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:01:56,253 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:01:58,254 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:01:59,530 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 10:01:59,530 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 10:02:00,254 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:02:02,255 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:02:04,256 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:02:06,257 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:02:08,257 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:02:10,258 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:02:12,259 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:02:14,260 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:02:14,690 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 10:02:14,691 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 10:02:16,260 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:02:18,261 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:02:20,263 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:02:22,263 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:02:23,067 DEBUG   SenderThread:19620 [sender.py:send():301] send: stats
+2022-10-26 10:02:24,264 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:02:26,265 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:02:28,266 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:02:29,824 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 10:02:29,824 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 10:02:30,266 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:02:32,267 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:02:34,268 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:02:36,269 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:02:38,270 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:02:40,271 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:02:42,272 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:02:44,272 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:02:44,959 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 10:02:44,960 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 10:02:46,273 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:02:48,274 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:02:50,275 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:02:52,276 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:02:54,277 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:02:56,278 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:02:56,816 DEBUG   SenderThread:19620 [sender.py:send():301] send: stats
+2022-10-26 10:02:58,279 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:03:00,089 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 10:03:00,090 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 10:03:00,280 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:03:02,280 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:03:04,281 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:03:06,282 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:03:08,283 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:03:10,284 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:03:12,285 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:03:14,286 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:03:15,225 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 10:03:15,225 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 10:03:16,287 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:03:18,288 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:03:20,289 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:03:22,289 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:03:24,290 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:03:26,291 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:03:28,292 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:03:30,293 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:03:30,368 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 10:03:30,369 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 10:03:30,778 DEBUG   SenderThread:19620 [sender.py:send():301] send: stats
+2022-10-26 10:03:32,294 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:03:34,296 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:03:36,297 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:03:38,298 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:03:40,299 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:03:42,299 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:03:44,300 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:03:45,522 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 10:03:45,522 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 10:03:46,301 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:03:48,302 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:03:50,303 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:03:52,303 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:03:54,304 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:03:56,305 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:03:58,306 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:04:00,306 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:04:00,655 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 10:04:00,655 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 10:04:02,307 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:04:04,308 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:04:04,686 DEBUG   SenderThread:19620 [sender.py:send():301] send: stats
+2022-10-26 10:04:06,308 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:04:08,309 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:04:10,310 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:04:12,310 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:04:14,311 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:04:15,800 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 10:04:15,801 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 10:04:16,312 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:04:18,313 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:04:20,314 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:04:22,314 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:04:24,315 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:04:26,315 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:04:28,316 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:04:30,317 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:04:30,939 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 10:04:30,939 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 10:04:32,318 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:04:34,319 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:04:36,319 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:04:38,320 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:04:38,368 DEBUG   SenderThread:19620 [sender.py:send():301] send: stats
+2022-10-26 10:04:40,321 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:04:42,322 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:04:44,323 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:04:46,074 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 10:04:46,074 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 10:04:46,324 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:04:48,324 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:04:50,325 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:04:52,326 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:04:54,327 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:04:56,327 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:04:58,328 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:05:00,329 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:05:01,207 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 10:05:01,208 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 10:05:02,330 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:05:04,331 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:05:06,331 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:05:08,332 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:05:10,333 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:05:12,066 DEBUG   SenderThread:19620 [sender.py:send():301] send: stats
+2022-10-26 10:05:12,334 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:05:14,334 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:05:16,335 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:05:16,343 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 10:05:16,343 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 10:05:18,336 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:05:20,337 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:05:22,337 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:05:24,338 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:05:26,339 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:05:28,339 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:05:30,340 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:05:31,478 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 10:05:31,478 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 10:05:32,341 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:05:34,342 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:05:36,342 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:05:38,343 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:05:40,344 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:05:42,345 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:05:44,345 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:05:45,711 DEBUG   SenderThread:19620 [sender.py:send():301] send: stats
+2022-10-26 10:05:46,346 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:05:46,618 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 10:05:46,619 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 10:05:48,347 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:05:50,348 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:05:52,348 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:05:54,349 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:05:56,350 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:05:58,350 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:06:00,351 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:06:01,758 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 10:06:01,758 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 10:06:02,352 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:06:04,352 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:06:06,353 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:06:08,354 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:06:10,355 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:06:12,355 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:06:14,356 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:06:16,357 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:06:16,890 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 10:06:16,890 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 10:06:18,358 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:06:19,645 DEBUG   SenderThread:19620 [sender.py:send():301] send: stats
+2022-10-26 10:06:20,358 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:06:22,359 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:06:24,360 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:06:26,361 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:06:28,361 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:06:30,362 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:06:32,028 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 10:06:32,029 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 10:06:32,363 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:06:34,364 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:06:36,365 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:06:38,365 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:06:40,366 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:06:42,367 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:06:44,367 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:06:46,368 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:06:47,169 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 10:06:47,169 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 10:06:48,369 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:06:50,370 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:06:52,371 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:06:53,688 DEBUG   SenderThread:19620 [sender.py:send():301] send: stats
+2022-10-26 10:06:54,372 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:06:56,373 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:06:58,374 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:07:00,375 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:07:02,313 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 10:07:02,313 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 10:07:02,375 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:07:04,376 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:07:06,379 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:07:08,379 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:07:10,380 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:07:12,381 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:07:14,382 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:07:16,383 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:07:17,447 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 10:07:17,448 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 10:07:18,384 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:07:20,385 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:07:22,386 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:07:24,387 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:07:26,387 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:07:28,209 DEBUG   SenderThread:19620 [sender.py:send():301] send: stats
+2022-10-26 10:07:28,388 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:07:30,389 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:07:32,390 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:07:32,607 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 10:07:32,608 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 10:07:34,391 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:07:36,391 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:07:38,392 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:07:40,393 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:07:42,393 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:07:44,394 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:07:46,395 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:07:47,744 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: stop_status
+2022-10-26 10:07:47,745 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: stop_status
+2022-10-26 10:07:48,396 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:07:50,397 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:07:52,904 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: partial_history
+2022-10-26 10:07:52,905 DEBUG   SenderThread:19620 [sender.py:send():301] send: history
+2022-10-26 10:07:52,905 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: partial_history
+2022-10-26 10:07:52,905 DEBUG   SenderThread:19620 [sender.py:send():301] send: summary
+2022-10-26 10:07:52,907 INFO    SenderThread:19620 [sender.py:_save_file():1155] saving file wandb-summary.json with policy end
+2022-10-26 10:07:52,907 DEBUG   SenderThread:19620 [sender.py:send():301] send: history
+2022-10-26 10:07:52,907 DEBUG   SenderThread:19620 [sender.py:send():301] send: summary
+2022-10-26 10:07:52,908 INFO    SenderThread:19620 [sender.py:_save_file():1155] saving file wandb-summary.json with policy end
+2022-10-26 10:07:53,398 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/wandb-summary.json
+2022-10-26 10:07:54,105 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: partial_history
+2022-10-26 10:07:54,105 DEBUG   SenderThread:19620 [sender.py:send():301] send: history
+2022-10-26 10:07:54,106 DEBUG   SenderThread:19620 [sender.py:send():301] send: summary
+2022-10-26 10:07:54,106 INFO    SenderThread:19620 [sender.py:_save_file():1155] saving file wandb-summary.json with policy end
+2022-10-26 10:07:54,145 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: partial_history
+2022-10-26 10:07:54,146 DEBUG   SenderThread:19620 [sender.py:send():301] send: history
+2022-10-26 10:07:54,146 DEBUG   SenderThread:19620 [sender.py:send():301] send: summary
+2022-10-26 10:07:54,147 INFO    SenderThread:19620 [sender.py:_save_file():1155] saving file wandb-summary.json with policy end
+2022-10-26 10:07:54,398 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/wandb-summary.json
+2022-10-26 10:07:55,091 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: partial_history
+2022-10-26 10:07:55,091 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: partial_history
+2022-10-26 10:07:55,092 DEBUG   SenderThread:19620 [sender.py:send():301] send: history
+2022-10-26 10:07:55,093 DEBUG   SenderThread:19620 [sender.py:send():301] send: summary
+2022-10-26 10:07:55,094 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: poll_exit
+2022-10-26 10:07:55,094 INFO    SenderThread:19620 [sender.py:_save_file():1155] saving file wandb-summary.json with policy end
+2022-10-26 10:07:55,094 DEBUG   SenderThread:19620 [sender.py:send():301] send: history
+2022-10-26 10:07:55,094 DEBUG   SenderThread:19620 [sender.py:send():301] send: summary
+2022-10-26 10:07:55,095 INFO    SenderThread:19620 [sender.py:_save_file():1155] saving file wandb-summary.json with policy end
+2022-10-26 10:07:55,095 DEBUG   SenderThread:19620 [sender.py:send():301] send: telemetry
+2022-10-26 10:07:55,095 DEBUG   SenderThread:19620 [sender.py:send():301] send: exit
+2022-10-26 10:07:55,095 INFO    SenderThread:19620 [sender.py:send_exit():437] handling exit code: 0
+2022-10-26 10:07:55,096 INFO    SenderThread:19620 [sender.py:send_exit():439] handling runtime: 3282
+2022-10-26 10:07:55,096 INFO    SenderThread:19620 [sender.py:_save_file():1155] saving file wandb-summary.json with policy end
+2022-10-26 10:07:55,096 INFO    SenderThread:19620 [sender.py:send_exit():445] send defer
+2022-10-26 10:07:55,096 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: poll_exit
+2022-10-26 10:07:55,097 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: defer
+2022-10-26 10:07:55,097 INFO    HandlerThread:19620 [handler.py:handle_request_defer():161] handle defer: 0
+2022-10-26 10:07:55,098 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: defer
+2022-10-26 10:07:55,098 INFO    SenderThread:19620 [sender.py:send_request_defer():454] handle sender defer: 0
+2022-10-26 10:07:55,098 INFO    SenderThread:19620 [sender.py:transition_state():458] send defer: 1
+2022-10-26 10:07:55,098 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: defer
+2022-10-26 10:07:55,099 INFO    HandlerThread:19620 [handler.py:handle_request_defer():161] handle defer: 1
+2022-10-26 10:07:55,399 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/wandb-summary.json
+2022-10-26 10:07:55,421 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: defer
+2022-10-26 10:07:55,421 INFO    SenderThread:19620 [sender.py:send_request_defer():454] handle sender defer: 1
+2022-10-26 10:07:55,421 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: poll_exit
+2022-10-26 10:07:55,421 INFO    SenderThread:19620 [sender.py:transition_state():458] send defer: 2
+2022-10-26 10:07:55,422 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: poll_exit
+2022-10-26 10:07:55,422 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: defer
+2022-10-26 10:07:55,422 INFO    HandlerThread:19620 [handler.py:handle_request_defer():161] handle defer: 2
+2022-10-26 10:07:55,423 DEBUG   SenderThread:19620 [sender.py:send():301] send: stats
+2022-10-26 10:07:55,425 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: defer
+2022-10-26 10:07:55,425 INFO    SenderThread:19620 [sender.py:send_request_defer():454] handle sender defer: 2
+2022-10-26 10:07:55,425 INFO    SenderThread:19620 [sender.py:transition_state():458] send defer: 3
+2022-10-26 10:07:55,425 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: defer
+2022-10-26 10:07:55,425 INFO    HandlerThread:19620 [handler.py:handle_request_defer():161] handle defer: 3
+2022-10-26 10:07:55,426 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: defer
+2022-10-26 10:07:55,426 INFO    SenderThread:19620 [sender.py:send_request_defer():454] handle sender defer: 3
+2022-10-26 10:07:55,426 INFO    SenderThread:19620 [sender.py:transition_state():458] send defer: 4
+2022-10-26 10:07:55,426 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: defer
+2022-10-26 10:07:55,426 INFO    HandlerThread:19620 [handler.py:handle_request_defer():161] handle defer: 4
+2022-10-26 10:07:55,427 DEBUG   SenderThread:19620 [sender.py:send():301] send: summary
+2022-10-26 10:07:55,427 INFO    SenderThread:19620 [sender.py:_save_file():1155] saving file wandb-summary.json with policy end
+2022-10-26 10:07:55,428 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: defer
+2022-10-26 10:07:55,428 INFO    SenderThread:19620 [sender.py:send_request_defer():454] handle sender defer: 4
+2022-10-26 10:07:55,428 INFO    SenderThread:19620 [sender.py:transition_state():458] send defer: 5
+2022-10-26 10:07:55,428 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: defer
+2022-10-26 10:07:55,428 INFO    HandlerThread:19620 [handler.py:handle_request_defer():161] handle defer: 5
+2022-10-26 10:07:55,428 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: defer
+2022-10-26 10:07:55,429 INFO    SenderThread:19620 [sender.py:send_request_defer():454] handle sender defer: 5
+2022-10-26 10:07:55,525 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: poll_exit
+2022-10-26 10:07:55,603 INFO    SenderThread:19620 [sender.py:transition_state():458] send defer: 6
+2022-10-26 10:07:55,603 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: poll_exit
+2022-10-26 10:07:55,604 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: defer
+2022-10-26 10:07:55,604 INFO    HandlerThread:19620 [handler.py:handle_request_defer():161] handle defer: 6
+2022-10-26 10:07:55,605 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: defer
+2022-10-26 10:07:55,605 INFO    SenderThread:19620 [sender.py:send_request_defer():454] handle sender defer: 6
+2022-10-26 10:07:55,706 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: poll_exit
+2022-10-26 10:07:56,030 INFO    SenderThread:19620 [sender.py:transition_state():458] send defer: 7
+2022-10-26 10:07:56,030 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: poll_exit
+2022-10-26 10:07:56,031 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: defer
+2022-10-26 10:07:56,031 INFO    HandlerThread:19620 [handler.py:handle_request_defer():161] handle defer: 7
+2022-10-26 10:07:56,032 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: defer
+2022-10-26 10:07:56,032 INFO    SenderThread:19620 [sender.py:send_request_defer():454] handle sender defer: 7
+2022-10-26 10:07:56,032 INFO    SenderThread:19620 [dir_watcher.py:finish():362] shutting down directory watcher
+2022-10-26 10:07:56,134 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: poll_exit
+2022-10-26 10:07:56,399 INFO    Thread-13 :19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/config.yaml
+2022-10-26 10:07:56,400 INFO    SenderThread:19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/wandb-summary.json
+2022-10-26 10:07:56,400 INFO    SenderThread:19620 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:07:56,401 INFO    SenderThread:19620 [dir_watcher.py:finish():392] scan: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files
+2022-10-26 10:07:56,401 INFO    SenderThread:19620 [dir_watcher.py:finish():406] scan save: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/config.yaml config.yaml
+2022-10-26 10:07:56,401 INFO    SenderThread:19620 [dir_watcher.py:finish():406] scan save: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/wandb-summary.json wandb-summary.json
+2022-10-26 10:07:56,401 INFO    SenderThread:19620 [dir_watcher.py:finish():406] scan save: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/requirements.txt requirements.txt
+2022-10-26 10:07:56,405 INFO    SenderThread:19620 [dir_watcher.py:finish():406] scan save: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/conda-environment.yaml conda-environment.yaml
+2022-10-26 10:07:56,405 INFO    SenderThread:19620 [dir_watcher.py:finish():406] scan save: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/wandb-metadata.json wandb-metadata.json
+2022-10-26 10:07:56,410 INFO    SenderThread:19620 [dir_watcher.py:finish():406] scan save: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log output.log
+2022-10-26 10:07:56,421 INFO    SenderThread:19620 [sender.py:transition_state():458] send defer: 8
+2022-10-26 10:07:56,421 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: poll_exit
+2022-10-26 10:07:56,430 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: defer
+2022-10-26 10:07:56,430 INFO    HandlerThread:19620 [handler.py:handle_request_defer():161] handle defer: 8
+2022-10-26 10:07:56,431 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: defer
+2022-10-26 10:07:56,431 INFO    SenderThread:19620 [sender.py:send_request_defer():454] handle sender defer: 8
+2022-10-26 10:07:56,431 INFO    SenderThread:19620 [file_pusher.py:finish():168] shutting down file pusher
+2022-10-26 10:07:56,532 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: poll_exit
+2022-10-26 10:07:56,532 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: poll_exit
+2022-10-26 10:07:56,635 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: poll_exit
+2022-10-26 10:07:56,635 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: poll_exit
+2022-10-26 10:07:56,737 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: poll_exit
+2022-10-26 10:07:56,737 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: poll_exit
+2022-10-26 10:07:56,840 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: poll_exit
+2022-10-26 10:07:56,840 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: poll_exit
+2022-10-26 10:07:56,910 INFO    Thread-19 :19620 [upload_job.py:push():139] Uploaded file /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/wandb-summary.json
+2022-10-26 10:07:56,913 INFO    Thread-20 :19620 [upload_job.py:push():139] Uploaded file /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/requirements.txt
+2022-10-26 10:07:56,942 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: poll_exit
+2022-10-26 10:07:56,943 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: poll_exit
+2022-10-26 10:07:56,945 INFO    Thread-21 :19620 [upload_job.py:push():139] Uploaded file /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/conda-environment.yaml
+2022-10-26 10:07:56,957 INFO    Thread-22 :19620 [upload_job.py:push():139] Uploaded file /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/output.log
+2022-10-26 10:07:56,994 INFO    Thread-18 :19620 [upload_job.py:push():139] Uploaded file /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/files/config.yaml
+2022-10-26 10:07:57,047 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: poll_exit
+2022-10-26 10:07:57,048 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: poll_exit
+2022-10-26 10:07:57,150 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: poll_exit
+2022-10-26 10:07:57,151 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: poll_exit
+2022-10-26 10:07:57,194 INFO    Thread-12 :19620 [sender.py:transition_state():458] send defer: 9
+2022-10-26 10:07:57,195 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: defer
+2022-10-26 10:07:57,195 INFO    HandlerThread:19620 [handler.py:handle_request_defer():161] handle defer: 9
+2022-10-26 10:07:57,195 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: defer
+2022-10-26 10:07:57,195 INFO    SenderThread:19620 [sender.py:send_request_defer():454] handle sender defer: 9
+2022-10-26 10:07:57,253 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: poll_exit
+2022-10-26 10:07:57,649 INFO    SenderThread:19620 [sender.py:transition_state():458] send defer: 10
+2022-10-26 10:07:57,650 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: poll_exit
+2022-10-26 10:07:57,650 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: defer
+2022-10-26 10:07:57,651 INFO    HandlerThread:19620 [handler.py:handle_request_defer():161] handle defer: 10
+2022-10-26 10:07:57,651 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: defer
+2022-10-26 10:07:57,651 INFO    SenderThread:19620 [sender.py:send_request_defer():454] handle sender defer: 10
+2022-10-26 10:07:57,651 INFO    SenderThread:19620 [sender.py:transition_state():458] send defer: 11
+2022-10-26 10:07:57,652 DEBUG   SenderThread:19620 [sender.py:send():301] send: final
+2022-10-26 10:07:57,653 DEBUG   SenderThread:19620 [sender.py:send():301] send: footer
+2022-10-26 10:07:57,653 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: defer
+2022-10-26 10:07:57,653 INFO    HandlerThread:19620 [handler.py:handle_request_defer():161] handle defer: 11
+2022-10-26 10:07:57,653 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: defer
+2022-10-26 10:07:57,653 INFO    SenderThread:19620 [sender.py:send_request_defer():454] handle sender defer: 11
+2022-10-26 10:07:57,753 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: poll_exit
+2022-10-26 10:07:57,754 DEBUG   SenderThread:19620 [sender.py:send_request():315] send_request: poll_exit
+2022-10-26 10:07:57,754 INFO    SenderThread:19620 [file_pusher.py:join():173] waiting for file pusher
+2022-10-26 10:07:58,142 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: sampled_history
+2022-10-26 10:07:58,143 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: get_summary
+2022-10-26 10:07:58,145 DEBUG   HandlerThread:19620 [handler.py:handle_request():138] handle_request: shutdown
+2022-10-26 10:07:58,145 INFO    HandlerThread:19620 [handler.py:finish():807] shutting down handler
+2022-10-26 10:07:58,652 INFO    WriterThread:19620 [datastore.py:close():279] close: /home/theouscidda/cellot/wandb/run-20221026_091312-eo1qr74y/run-eo1qr74y.wandb
+2022-10-26 10:07:59,040 INFO    SenderThread:19620 [sender.py:finish():1315] shutting down sender
+2022-10-26 10:07:59,040 INFO    SenderThread:19620 [file_pusher.py:finish():168] shutting down file pusher
+2022-10-26 10:07:59,040 INFO    SenderThread:19620 [file_pusher.py:join():173] waiting for file pusher
+2022-10-26 10:08:00,149 INFO    MainThread:19620 [internal.py:handle_exit():78] Internal process exited

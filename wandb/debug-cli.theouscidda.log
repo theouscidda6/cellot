@@ -680,3 +680,101 @@ requests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: 
 	init_params.init_seed: 1
 2022-10-26 09:43:23 INFO About to run command: python3 evaluate_neural_dual.py drug.name=melphalan init_params.init_seed=1
 2022-10-26 09:43:28 INFO Running runs: ['q7mfhjvb']
+2022-10-26 09:54:45 INFO Cleaning up finished run: p3o7iuup
+2022-10-26 09:54:45 INFO Agent received command: run
+2022-10-26 09:54:45 INFO Agent starting run with config:
+	drug.name: melphalan
+	init_params.init_seed: 2
+2022-10-26 09:54:45 INFO About to run command: python3 evaluate_neural_dual.py drug.name=melphalan init_params.init_seed=2
+2022-10-26 09:54:50 INFO Running runs: ['c5yqp1s7']
+2022-10-26 10:08:07 INFO Cleaning up finished run: eo1qr74y
+2022-10-26 10:08:07 INFO Agent received command: run
+2022-10-26 10:08:07 INFO Agent starting run with config:
+	drug.name: melphalan
+	init_params.init_seed: 3
+2022-10-26 10:08:07 INFO About to run command: python3 evaluate_neural_dual.py drug.name=melphalan init_params.init_seed=3
+2022-10-26 10:08:12 INFO Running runs: ['knarwmkf']
+2022-10-26 10:13:12 INFO Cleaning up finished run: o8aoiuqw
+2022-10-26 10:13:12 INFO Agent received command: run
+2022-10-26 10:13:12 INFO Agent starting run with config:
+	drug.name: melphalan
+	init_params.init_seed: 4
+2022-10-26 10:13:12 INFO About to run command: python3 evaluate_neural_dual.py drug.name=melphalan init_params.init_seed=4
+2022-10-26 10:13:17 INFO Running runs: ['9f3hwaaq']
+2022-10-26 10:21:50 INFO Cleaning up finished run: ocbc9nb8
+2022-10-26 10:21:50 INFO Agent received command: run
+2022-10-26 10:21:50 INFO Agent starting run with config:
+	drug.name: midostaurin
+	init_params.init_seed: 0
+2022-10-26 10:21:50 INFO About to run command: python3 evaluate_neural_dual.py drug.name=midostaurin init_params.init_seed=0
+2022-10-26 10:21:55 INFO Running runs: ['ryg5oo6c']
+2022-10-26 10:27:43 INFO Cleaning up finished run: 40748nsf
+2022-10-26 10:27:44 INFO Agent received command: run
+2022-10-26 10:27:44 INFO Agent starting run with config:
+	drug.name: midostaurin
+	init_params.init_seed: 1
+2022-10-26 10:27:44 INFO About to run command: python3 evaluate_neural_dual.py drug.name=midostaurin init_params.init_seed=1
+2022-10-26 10:27:49 INFO Running runs: ['pg8s6a8z']
+2022-10-26 10:36:22 INFO Cleaning up finished run: tgeds8ty
+2022-10-26 10:36:22 INFO Agent received command: run
+2022-10-26 10:36:22 INFO Agent starting run with config:
+	drug.name: midostaurin
+	init_params.init_seed: 2
+2022-10-26 10:36:22 INFO About to run command: python3 evaluate_neural_dual.py drug.name=midostaurin init_params.init_seed=2
+2022-10-26 10:36:23 INFO Cleaning up finished run: e2j8tl4y
+2022-10-26 10:36:23 INFO Agent received command: run
+2022-10-26 10:36:23 INFO Agent starting run with config:
+	drug.name: midostaurin
+	init_params.init_seed: 3
+2022-10-26 10:36:23 INFO About to run command: python3 evaluate_neural_dual.py drug.name=midostaurin init_params.init_seed=3
+2022-10-26 10:36:27 INFO Running runs: ['pq2etuck']
+2022-10-26 10:36:28 INFO Running runs: ['th9zzldt']
+2022-10-26 10:38:55 INFO Cleaning up finished run: q7mfhjvb
+2022-10-26 10:38:55 INFO Agent received command: run
+2022-10-26 10:38:55 INFO Agent starting run with config:
+	drug.name: midostaurin
+	init_params.init_seed: 4
+2022-10-26 10:38:55 INFO About to run command: python3 evaluate_neural_dual.py drug.name=midostaurin init_params.init_seed=4
+2022-10-26 10:39:00 INFO Running runs: ['a0n1rceb']
+2022-10-26 10:39:36 INFO Cleaning up finished run: 30h5xaak
+2022-10-26 10:39:37 INFO Agent received command: run
+2022-10-26 10:39:37 INFO Agent starting run with config:
+	drug.name: mln2480
+	init_params.init_seed: 0
+2022-10-26 10:39:37 INFO About to run command: python3 evaluate_neural_dual.py drug.name=mln2480 init_params.init_seed=0
+2022-10-26 10:39:42 INFO Running runs: ['c4p513dc']
+2022-10-26 10:49:04 INFO Cleaning up finished run: c5yqp1s7
+2022-10-26 10:49:04 INFO Agent received command: run
+2022-10-26 10:49:04 INFO Agent starting run with config:
+	drug.name: mln2480
+	init_params.init_seed: 1
+2022-10-26 10:49:04 INFO About to run command: python3 evaluate_neural_dual.py drug.name=mln2480 init_params.init_seed=1
+2022-10-26 10:49:09 INFO Running runs: ['hlnh1dy4']
+2022-10-26 11:04:32 INFO Cleaning up finished run: knarwmkf
+2022-10-26 11:04:33 INFO Agent received command: run
+2022-10-26 11:04:33 INFO Agent starting run with config:
+	drug.name: mln2480
+	init_params.init_seed: 2
+2022-10-26 11:04:33 INFO About to run command: python3 evaluate_neural_dual.py drug.name=mln2480 init_params.init_seed=2
+2022-10-26 11:04:38 INFO Running runs: ['3y4096cn']
+2022-10-26 11:07:00 INFO Cleaning up finished run: 9f3hwaaq
+2022-10-26 11:07:01 INFO Agent received command: run
+2022-10-26 11:07:01 INFO Agent starting run with config:
+	drug.name: mln2480
+	init_params.init_seed: 3
+2022-10-26 11:07:01 INFO About to run command: python3 evaluate_neural_dual.py drug.name=mln2480 init_params.init_seed=3
+2022-10-26 11:07:06 INFO Running runs: ['5vvl6zrh']
+2022-10-26 11:17:52 INFO Cleaning up finished run: ryg5oo6c
+2022-10-26 11:17:53 INFO Agent received command: run
+2022-10-26 11:17:53 INFO Agent starting run with config:
+	drug.name: mln2480
+	init_params.init_seed: 4
+2022-10-26 11:17:53 INFO About to run command: python3 evaluate_neural_dual.py drug.name=mln2480 init_params.init_seed=4
+2022-10-26 11:17:58 INFO Running runs: ['p3cwklsr']
+2022-10-26 11:22:21 INFO Cleaning up finished run: pg8s6a8z
+2022-10-26 11:22:22 INFO Agent received command: run
+2022-10-26 11:22:22 INFO Agent starting run with config:
+	drug.name: olaparib
+	init_params.init_seed: 0
+2022-10-26 11:22:22 INFO About to run command: python3 evaluate_neural_dual.py drug.name=olaparib init_params.init_seed=0
+2022-10-26 11:22:27 INFO Running runs: ['dolwy2tg']
